@@ -1,192 +1,288 @@
-1. Damage Tree + Avatar Sukuna (Evo): 1831737 GDPS, 1831737 DPS
-2. Damage Tree + Avatar Guts: 1558977 GDPS, 1558977 DPS
-3. Critical Tree + Avatar Sukuna (Evo): 1489002 GDPS, 1489002 DPS
-4. Damage Tree + Avatar Roy: 1430037 GDPS, 1430037 DPS
-5. Critical Tree + Avatar Guts: 1276300 GDPS, 1276300 DPS
-6. Critical Tree + Avatar Roy: 1167438 GDPS, 1167438 DPS
-7. Damage Tree + Avatar Yamamoto: 1068497 GDPS, 1068497 DPS
-8. Critical Tree + Avatar Yamamoto: 875346 GDPS, 875346 DPS
-9. Damage Tree + All Seeing Mash: 858912 GDPS, 214728 DPS
-10. Critical Tree + All Seeing Mash: 645540 GDPS, 161385 DPS
-11. Damage Tree + Shinigami Mash: 582636 GDPS, 145659 DPS
-12. Damage Tree + Entrepreneur Mash: 578336 GDPS, 144584 DPS
-13. Damage Tree + Avatar Itachi: 538664 GDPS, 538664 DPS
-14. Damage Tree + Overlord Sukuna (Evo): 529128 GDPS, 529128 DPS
-15. Damage Tree + All Seeing Roy: 512724 GDPS, 215163 DPS
-16. Damage Tree + Overlord Guts: 498953 GDPS, 498953 DPS
-17. Critical Tree + Shinigami Mash: 484692 GDPS, 121173 DPS
-18. Critical Tree + Overlord Sukuna (Evo): 472697 GDPS, 472697 DPS
-19. Critical Tree + Overlord Guts: 454401 GDPS, 454401 DPS
-20. Critical Tree + Avatar Itachi: 441291 GDPS, 441291 DPS
-21. Damage Tree + Overlord Roy: 439899 GDPS, 439899 DPS
-22. Critical Tree + Entrepreneur Mash: 426964 GDPS, 106741 DPS
-23. Damage Tree + Nothing Mash: 413068 GDPS, 103267 DPS
-24. Damage Tree + Avatar Sukuna: 407928 GDPS, 407928 DPS
-25. Damage Tree + Shinigami Roy: 402159 GDPS, 200313 DPS
-26. Critical Tree + Overlord Roy: 397760 GDPS, 397760 DPS
-27. Damage Tree + All Seeing Saber: 396748 GDPS, 99187 DPS
-28. Critical Tree + Overlord Mash: 393417 GDPS, 393417 DPS
-29. Damage Tree + Entrepreneur Roy: 383120 GDPS, 182762 DPS
-30. Damage Tree + Overlord Mash: 381260 GDPS, 381260 DPS
-31. Damage Tree + All Seeing Guts: 367012 GDPS, 245930 DPS
-32. Critical Tree + All Seeing Roy: 366409 GDPS, 142768 DPS
-33. Damage Tree + Overlord Yamamoto: 345163 GDPS, 345163 DPS
-34. Damage Tree + All Seeing Yamamoto: 340661 GDPS, 170425 DPS
-35. Critical Tree + Avatar Sukuna: 336495 GDPS, 336495 DPS
-36. Critical Tree + Overlord Yamamoto: 314855 GDPS, 314855 DPS
-37. Critical Tree + Shinigami Roy: 309164 GDPS, 141248 DPS
-38. Damage Tree + Shinigami Guts: 307476 GDPS, 225341 DPS
-39. Damage Tree + Nothing Roy: 298252 GDPS, 155149 DPS
-40. Critical Tree + All Seeing Saber: 298188 GDPS, 74547 DPS
-41. Critical Tree + Nothing Mash: 294668 GDPS, 73667 DPS
-42. Critical Tree + Avatar Mash: 293536 GDPS, 293536 DPS
-43. Damage Tree + Avatar Mash: 293419 GDPS, 293419 DPS
-44. Damage Tree + All Seeing Saitama: 291228 GDPS, 145614 DPS
-45. Damage Tree + Entrepreneur Guts: 287904 GDPS, 206376 DPS
-46. Damage Tree + All Seeing Genos: 284898 GDPS, 47483 DPS
-47. Damage Tree + All Seeing Genos: 284898 GDPS, 47483 DPS
-48. Damage Tree + All Seeing Whitebeard: 276880 GDPS, 69220 DPS
-49. Damage Tree + Shinigami Yamamoto: 271070 GDPS, 155592 DPS
-50. Damage Tree + Shinigami Saber: 269128 GDPS, 67282 DPS
-51. Damage Tree + Entrepreneur Saber: 267144 GDPS, 66786 DPS
-52. Critical Tree + Overlord Saitama: 266789 GDPS, 266789 DPS
-53. Critical Tree + Entrepreneur Roy: 265445 GDPS, 117527 DPS
-54. Damage Tree + Overlord Saitama: 258545 GDPS, 258545 DPS
-55. Damage Tree + Entrepreneur Yamamoto: 257246 GDPS, 142620 DPS
-56. Damage Tree + All Seeing Yami: 256620 GDPS, 64155 DPS
-57. Damage Tree + All Seeing Sukuna (Evo): 255473 GDPS, 255473 DPS
-58. Critical Tree + All Seeing Guts: 255444 GDPS, 164442 DPS
-59. Damage Tree + All Seeing Gon: 246609 GDPS, 82203 DPS
-60. Critical Tree + Overlord Gojo (Evo): 245523 GDPS, 245523 DPS
-61. Damage Tree + Shinigami Sukuna (Evo): 244244 GDPS, 244244 DPS
-62. Critical Tree + All Seeing Yamamoto: 242100 GDPS, 114154 DPS
-63. Damage Tree + Overlord Gojo (Evo): 237936 GDPS, 237936 DPS
-64. Damage Tree + Nothing Guts: 232130 GDPS, 173899 DPS
-65. Critical Tree + Shinigami Guts: 228456 GDPS, 160128 DPS
-66. Critical Tree + Shinigami Saber: 223888 GDPS, 55972 DPS
-67. Damage Tree + Entrepreneur Sukuna (Evo): 221463 GDPS, 221463 DPS
-68. Critical Tree + All Seeing Saitama: 218882 GDPS, 109441 DPS
-69. Critical Tree + All Seeing Genos: 214122 GDPS, 35687 DPS
-70. Critical Tree + All Seeing Genos: 214122 GDPS, 35687 DPS
-71. Critical Tree + All Seeing Whitebeard: 208096 GDPS, 52024 DPS
-72. Critical Tree + Shinigami Yamamoto: 206825 GDPS, 110759 DPS
-73. Damage Tree + All Seeing Gojo: 202594 GDPS, 101297 DPS
-74. Damage Tree + Nothing Yamamoto: 201840 GDPS, 119970 DPS
-75. Critical Tree + Avatar Saitama: 199057 GDPS, 199057 DPS
-76. Damage Tree + Avatar Saitama: 198977 GDPS, 198977 DPS
-77. Damage Tree + Shinigami Saitama: 197552 GDPS, 98776 DPS
-78. Critical Tree + Entrepreneur Saber: 197224 GDPS, 49306 DPS
-79. Damage Tree + Entrepreneur Saitama: 196094 GDPS, 98047 DPS
-80. Critical Tree + Nothing Roy: 195805 GDPS, 93721 DPS
-81. Damage Tree + All Seeing Sukuna: 194756 GDPS, 72353 DPS
-82. Critical Tree + Entrepreneur Guts: 193818 GDPS, 133629 DPS
-83. Damage Tree + Shinigami Genos: 193260 GDPS, 32210 DPS
-84. Damage Tree + Shinigami Genos: 193260 GDPS, 32210 DPS
-85. Critical Tree + All Seeing Yami: 192872 GDPS, 48218 DPS
-86. Damage Tree + Entrepreneur Genos: 191832 GDPS, 31972 DPS
-87. Damage Tree + Entrepreneur Genos: 191832 GDPS, 31972 DPS
-88. Damage Tree + Nothing Saber: 190804 GDPS, 47701 DPS
-89. Damage Tree + Nothing Sukuna (Evo): 190301 GDPS, 190301 DPS
-90. Damage Tree + Shinigami Whitebeard: 187820 GDPS, 46955 DPS
-91. Damage Tree + Entrepreneur Whitebeard: 186432 GDPS, 46608 DPS
-92. Critical Tree + Overlord Gojo: 185593 GDPS, 185593 DPS
-93. Critical Tree + All Seeing Gon: 185346 GDPS, 61782 DPS
-94. Critical Tree + Avatar Gojo (Evo): 183190 GDPS, 183190 DPS
-95. Damage Tree + Avatar Gojo (Evo): 183117 GDPS, 183117 DPS
-96. Critical Tree + Overlord Saber: 181726 GDPS, 181726 DPS
-97. Damage Tree + Overlord Gojo: 179857 GDPS, 179857 DPS
-98. Critical Tree + Entrepreneur Yamamoto: 177117 GDPS, 92493 DPS
-99. Damage Tree + Overlord Saber: 176110 GDPS, 176110 DPS
-100. Damage Tree + Shinigami Yami: 174076 GDPS, 43519 DPS
-101. Damage Tree + Overlord Itachi: 174008 GDPS, 174008 DPS
-102. Damage Tree + Entrepreneur Yami: 172792 GDPS, 43198 DPS
-103. Damage Tree + All Seeing Itachi: 171739 GDPS, 85917 DPS
-104. Critical Tree + Shinigami Sukuna (Evo): 170047 GDPS, 170047 DPS
-105. Damage Tree + Shinigami Gon: 167286 GDPS, 55762 DPS
-106. Critical Tree + All Seeing Sukuna (Evo): 167283 GDPS, 167283 DPS
-107. Damage Tree + Entrepreneur Gon: 166050 GDPS, 55350 DPS
-108. Critical Tree + Shinigami Saitama: 164344 GDPS, 82172 DPS
-109. Critical Tree + Shinigami Genos: 160770 GDPS, 26795 DPS
-110. Critical Tree + Shinigami Genos: 160770 GDPS, 26795 DPS
-111. Critical Tree + Overlord Itachi: 158729 GDPS, 158729 DPS
-112. Critical Tree + Shinigami Whitebeard: 156248 GDPS, 39062 DPS
-113. Critical Tree + All Seeing Gojo: 152266 GDPS, 76133 DPS
-114. Critical Tree + Overlord Gon: 150610 GDPS, 150610 DPS
-115. Critical Tree + Nothing Guts: 147340 GDPS, 105800 DPS
-116. Damage Tree + Shinigami Sukuna: 146900 GDPS, 63868 DPS
-117. Damage Tree + Overlord Gon: 145956 GDPS, 145956 DPS
-118. Critical Tree + Shinigami Yami: 144812 GDPS, 36203 DPS
-119. Critical Tree + Entrepreneur Saitama: 144768 GDPS, 72384 DPS
-120. Damage Tree + Overlord Sukuna: 144208 GDPS, 144208 DPS
-121. Critical Tree + Entrepreneur Genos: 141624 GDPS, 23604 DPS
-122. Critical Tree + Entrepreneur Genos: 141624 GDPS, 23604 DPS
-123. Damage Tree + Entrepreneur Sukuna: 141444 GDPS, 59025 DPS
-124. Critical Tree + All Seeing Sukuna: 141220 GDPS, 49225 DPS
-125. Critical Tree + Entrepreneur Sukuna (Evo): 140789 GDPS, 140789 DPS
-126. Damage Tree + Nothing Saitama: 140058 GDPS, 70029 DPS
-127. Critical Tree + Shinigami Gon: 139164 GDPS, 46388 DPS
-128. Critical Tree + Avatar Gojo: 138474 GDPS, 138474 DPS
-129. Damage Tree + Avatar Gojo: 138419 GDPS, 138419 DPS
-130. Critical Tree + Entrepreneur Whitebeard: 137636 GDPS, 34409 DPS
-131. Damage Tree + Shinigami Gojo: 137428 GDPS, 68714 DPS
-132. Damage Tree + Nothing Genos: 137016 GDPS, 22836 DPS
-133. Damage Tree + Nothing Genos: 137016 GDPS, 22836 DPS
-134. Damage Tree + Shinigami Itachi: 136654 GDPS, 78438 DPS
-135. Damage Tree + Entrepreneur Gojo: 136414 GDPS, 68207 DPS
-136. Critical Tree + Nothing Saber: 136112 GDPS, 34028 DPS
-137. Critical Tree + Avatar Saber: 135589 GDPS, 135589 DPS
-138. Damage Tree + Avatar Saber: 135536 GDPS, 135536 DPS
-139. Damage Tree + All Seeing Gojo (Evo): 134007 GDPS, 134007 DPS
-140. Critical Tree + Overlord Sukuna: 133526 GDPS, 133526 DPS
-141. Damage Tree + Nothing Whitebeard: 133156 GDPS, 33289 DPS
-142. Critical Tree + Nothing Yamamoto: 131514 GDPS, 73110 DPS
-143. Damage Tree + Entrepreneur Itachi: 129685 GDPS, 71899 DPS
-144. Critical Tree + Entrepreneur Yami: 127564 GDPS, 31891 DPS
-145. Critical Tree + Overlord Whitebeard: 126822 GDPS, 126822 DPS
-146. Damage Tree + Nothing Yami: 123416 GDPS, 30854 DPS
-147. Damage Tree + Overlord Whitebeard: 122903 GDPS, 122903 DPS
-148. Critical Tree + Entrepreneur Gon: 122589 GDPS, 40863 DPS
-149. Critical Tree + All Seeing Itachi: 122050 GDPS, 57548 DPS
-150. Damage Tree + Nothing Gon: 118599 GDPS, 39533 DPS
-151. Critical Tree + Overlord Yami: 117542 GDPS, 117542 DPS
-152. Critical Tree + Shinigami Sukuna: 115296 GDPS, 46224 DPS
-153. Critical Tree + Shinigami Gojo: 114326 GDPS, 57163 DPS
-154. Damage Tree + Overlord Yami: 113910 GDPS, 113910 DPS
-155. Critical Tree + Nothing Sukuna (Evo): 113625 GDPS, 113625 DPS
-156. Critical Tree + Avatar Gon: 112373 GDPS, 112373 DPS
-157. Damage Tree + Avatar Gon: 112328 GDPS, 112328 DPS
-158. Damage Tree + Nothing Sukuna: 107720 GDPS, 48854 DPS
-159. Critical Tree + Shinigami Itachi: 104267 GDPS, 55837 DPS
-160. Damage Tree + Nothing Itachi: 101755 GDPS, 60481 DPS
-161. Critical Tree + All Seeing Gojo (Evo): 100717 GDPS, 100717 DPS
-162. Critical Tree + Entrepreneur Gojo: 100710 GDPS, 50355 DPS
-163. Critical Tree + Nothing Saitama: 99912 GDPS, 49956 DPS
-164. Critical Tree + Entrepreneur Sukuna: 99688 GDPS, 38842 DPS
-165. Critical Tree + Nothing Genos: 97746 GDPS, 16291 DPS
-166. Critical Tree + Nothing Genos: 97746 GDPS, 16291 DPS
-167. Damage Tree + Nothing Gojo: 97432 GDPS, 48716 DPS
-168. Critical Tree + Nothing Whitebeard: 94992 GDPS, 23748 DPS
-169. Critical Tree + Avatar Whitebeard: 94624 GDPS, 94624 DPS
-170. Damage Tree + Avatar Whitebeard: 94587 GDPS, 94587 DPS
-171. Damage Tree + Shinigami Gojo (Evo): 90903 GDPS, 90903 DPS
-172. Damage Tree + Entrepreneur Gojo (Evo): 90232 GDPS, 90232 DPS
-173. Critical Tree + Entrepreneur Itachi: 89290 GDPS, 46628 DPS
-174. Critical Tree + Nothing Yami: 88040 GDPS, 22010 DPS
-175. Critical Tree + Avatar Yami: 87701 GDPS, 87701 DPS
-176. Damage Tree + Avatar Yami: 87666 GDPS, 87666 DPS
-177. Critical Tree + Overlord Genos: 86997 GDPS, 86997 DPS
-178. Critical Tree + Overlord Genos: 86997 GDPS, 86997 DPS
-179. Critical Tree + Nothing Gon: 84606 GDPS, 28202 DPS
-180. Damage Tree + Overlord Genos: 84308 GDPS, 84308 DPS
-181. Damage Tree + Overlord Genos: 84308 GDPS, 84308 DPS
-182. Critical Tree + Shinigami Gojo (Evo): 75622 GDPS, 75622 DPS
-183. Critical Tree + Nothing Sukuna: 72232 GDPS, 30238 DPS
-184. Critical Tree + Nothing Gojo: 69504 GDPS, 34752 DPS
-185. Critical Tree + Entrepreneur Gojo (Evo): 66615 GDPS, 66615 DPS
-186. Critical Tree + Nothing Itachi: 66301 GDPS, 36857 DPS
-187. Critical Tree + Avatar Genos: 64910 GDPS, 64910 DPS
-188. Critical Tree + Avatar Genos: 64910 GDPS, 64910 DPS
-189. Damage Tree + Avatar Genos: 64884 GDPS, 64884 DPS
-190. Damage Tree + Avatar Genos: 64884 GDPS, 64884 DPS
-191. Damage Tree + Nothing Gojo (Evo): 64447 GDPS, 64447 DPS
-192. Critical Tree + Nothing Gojo (Evo): 45974 GDPS, 45974 DPS
+1. Avatar Sukuna (Evo): 1586491 GDPS, 1586491 DPS | 1,1,2,3,2,3,3,3
+2. Avatar Guts: 1456560 GDPS, 1456560 DPS | 3,2,1,1,1,2,3,3
+3. Avatar Roy: 1335339 GDPS, 1335339 DPS | 1,1,1,1,1,2,3,3
+4. Avatar Yamamoto: 847216 GDPS, 847216 DPS | 2,2,1,1,1,2,2,2
+5. All Seeing Mash: 842072 GDPS, 210518 DPS | 1,1,2,3,2,3,3,3
+6. Shinigami Mash: 572676 GDPS, 143169 DPS | 1,1,2,3,2,3,3,3
+7. Entrepreneur Mash: 566996 GDPS, 141749 DPS | 1,1,2,3,2,3,3,3
+8. Cosmic Mash: 550152 GDPS, 137538 DPS | 1,1,2,3,2,3,3,3
+9. Overlord Sukuna (Evo): 504771 GDPS, 504771 DPS | 1,1,2,3,2,3,3,3
+10. Demi God Mash: 492712 GDPS, 123178 DPS | 1,1,2,3,2,3,3,3
+11. Hyper Speed Mash: 487864 GDPS, 121966 DPS | 1,1,2,3,2,3,3,3
+12. Accelerate Mash: 468504 GDPS, 117126 DPS | 1,1,2,3,2,3,3,3
+13. All Seeing Roy: 458894 GDPS, 167168 DPS | 1,1,2,3,2,3,3,3
+14. Juggernaut Mash: 446952 GDPS, 111738 DPS | 1,1,2,3,2,3,3,3
+15. Vulture Mash: 438984 GDPS, 109746 DPS | 1,1,2,3,2,3,3,3
+16. Overlord Guts: 428997 GDPS, 428997 DPS | 2,2,3,2,2,2,1,1
+17. Avatar Itachi: 427109 GDPS, 427109 DPS | 2,2,1,1,1,2,2,2
+18. Sturdy Mash: 426180 GDPS, 106545 DPS | 1,1,2,3,2,3,3,3
+19. Diamond Mash: 415252 GDPS, 103813 DPS | 1,1,2,3,2,3,3,3
+20. Elemental Master Mash: 415252 GDPS, 103813 DPS | 1,1,2,3,2,3,3,3
+21. Golden Mash: 404324 GDPS, 101081 DPS | 1,1,2,3,2,3,3,3
+22. Scoped Mash: 404324 GDPS, 101081 DPS | 1,1,2,3,2,3,3,3
+23. Shining Mash: 404324 GDPS, 101081 DPS | 1,1,2,3,2,3,3,3
+24. Eagle Eye Mash: 404324 GDPS, 101081 DPS | 1,1,2,3,2,3,3,3
+25. All Seeing Saber: 388968 GDPS, 97242 DPS | 1,1,2,3,2,3,3,3
+26. Overlord Mash: 387878 GDPS, 387878 DPS | 1,1,2,3,2,2,1,1
+27. Shinigami Roy: 379907 GDPS, 191075 DPS | 3,2,3,3,2,3,3,3
+28. Overlord Roy: 371726 GDPS, 371726 DPS | 1,1,1,2,2,2,1,1
+29. Avatar Sukuna: 356554 GDPS, 356554 DPS | 1,1,2,3,2,3,3,3
+30. Demi God Roy: 334716 GDPS, 171633 DPS | 2,2,3,3,2,3,3,3
+31. Entrepreneur Roy: 331830 GDPS, 135402 DPS | 1,1,2,3,2,3,3,3
+32. Cosmic Roy: 324054 GDPS, 133458 DPS | 1,1,2,3,2,3,3,3
+33. All Seeing Guts: 316729 GDPS, 198022 DPS | 1,1,2,3,2,3,3,3
+34. Juggernaut Roy: 312354 GDPS, 160194 DPS | 2,2,2,3,2,3,3,3
+35. All Seeing Yamamoto: 310564 GDPS, 143666 DPS | 1,1,2,3,2,3,3,3
+36. Hyper Speed Roy: 305865 GDPS, 156684 DPS | 3,2,3,2,2,3,3,3
+37. Vulture Roy: 305847 GDPS, 153765 DPS | 1,1,2,3,2,3,3,3
+38. Sturdy Roy: 305502 GDPS, 157857 DPS | 1,1,2,3,2,3,3,3
+39. Overlord Yamamoto: 300830 GDPS, 300830 DPS | 1,1,2,3,2,3,3,3
+40. Shinigami Guts: 298396 GDPS, 221558 DPS | 2,2,3,3,2,3,3,3
+41. Diamond Roy: 297668 GDPS, 153809 DPS | 1,1,2,3,2,3,3,3
+42. Accelerate Roy: 295975 GDPS, 151768 DPS | 2,2,3,2,2,3,3,3
+43. Avatar Mash: 290584 GDPS, 290584 DPS | 1,1,2,3,2,3,3,3
+44. Scoped Roy: 289835 GDPS, 149762 DPS | 1,1,2,3,2,3,3,3
+45. Eagle Eye Roy: 289835 GDPS, 149762 DPS | 1,1,2,3,2,3,3,3
+46. Golden Roy: 289835 GDPS, 149762 DPS | 1,1,2,3,2,3,3,3
+47. Shining Roy: 289835 GDPS, 149762 DPS | 1,1,2,3,2,3,3,3
+48. All Seeing Saitama: 285518 GDPS, 142759 DPS | 1,1,2,3,2,3,3,3
+49. All Seeing Genos: 279312 GDPS, 46552 DPS | 1,1,2,3,2,3,3,3
+50. All Seeing Whitebeard: 271452 GDPS, 67863 DPS | 1,1,2,3,2,3,3,3
+51. Elemental Master Roy: 271204 GDPS, 127345 DPS | 1,1,2,3,2,3,3,3
+52. Demi God Guts: 265178 GDPS, 198817 DPS | 3,2,3,3,2,3,3,3
+53. Shinigami Saber: 264528 GDPS, 66132 DPS | 1,1,2,3,2,3,3,3
+54. Overlord Saitama: 263033 GDPS, 263033 DPS | 1,1,2,3,2,2,1,1
+55. Entrepreneur Saber: 261904 GDPS, 65476 DPS | 1,1,2,3,2,3,3,3
+56. Cosmic Saber: 254128 GDPS, 63532 DPS | 1,1,2,3,2,3,3,3
+57. All Seeing Yami: 251588 GDPS, 62897 DPS | 1,1,2,3,2,3,3,3
+58. Overlord Gojo (Evo): 242067 GDPS, 242067 DPS | 1,1,2,3,2,2,1,1
+59. Juggernaut Guts: 242062 GDPS, 181558 DPS | 3,2,3,3,2,3,3,3
+60. All Seeing Gon: 241776 GDPS, 80592 DPS | 1,1,2,3,2,3,3,3
+61. Entrepreneur Guts: 239175 GDPS, 159245 DPS | 1,1,2,3,2,3,3,3
+62. Sturdy Guts: 236388 GDPS, 177267 DPS | 2,2,2,3,2,3,3,3
+63. Vulture Guts: 234545 GDPS, 173316 DPS | 3,2,2,3,2,3,3,3
+64. Accelerate Guts: 234485 GDPS, 175805 DPS | 3,2,3,2,2,3,3,3
+65. Cosmic Guts: 234427 GDPS, 156871 DPS | 1,1,2,3,2,3,3,3
+66. Diamond Guts: 230327 GDPS, 172722 DPS | 3,2,2,3,2,3,3,3
+67. All Seeing Sukuna (Evo): 230281 GDPS, 230281 DPS | 1,1,2,3,2,3,3,3
+68. Shinigami Yamamoto: 229406 GDPS, 115902 DPS | 1,1,2,3,2,3,3,3
+69. Entrepreneur Yamamoto: 228784 GDPS, 116406 DPS | 1,1,2,3,2,3,3,3
+70. Demi God Saber: 227592 GDPS, 56898 DPS | 1,1,2,3,2,3,3,3
+71. Hyper Speed Saber: 225352 GDPS, 56338 DPS | 1,1,2,3,2,3,3,3
+72. Shining Guts: 224265 GDPS, 168176 DPS | 2,2,2,3,2,3,3,3
+73. Scoped Guts: 224265 GDPS, 168176 DPS | 2,2,2,3,2,3,3,3
+74. Golden Guts: 224265 GDPS, 168176 DPS | 3,2,2,3,2,3,3,3
+75. Eagle Eye Guts: 224265 GDPS, 168176 DPS | 2,2,2,3,2,3,3,3
+76. Cosmic Yamamoto: 223777 GDPS, 114737 DPS | 1,1,2,3,2,3,3,3
+77. Accelerate Saber: 216412 GDPS, 54103 DPS | 1,1,2,3,2,3,3,3
+78. Hyper Speed Guts: 208199 GDPS, 139424 DPS | 1,1,2,3,2,3,3,3
+79. Elemental Master Guts: 206555 GDPS, 148016 DPS | 1,1,2,3,2,3,3,3
+80. Juggernaut Saber: 206456 GDPS, 51614 DPS | 1,1,2,3,2,3,3,3
+81. Vulture Saber: 202776 GDPS, 50694 DPS | 1,1,2,3,2,3,3,3
+82. Demi God Yamamoto: 200491 GDPS, 102835 DPS | 1,1,2,3,2,3,3,3
+83. All Seeing Gojo: 198622 GDPS, 99311 DPS | 1,1,2,3,2,3,3,3
+84. Hyper Speed Yamamoto: 198421 GDPS, 101727 DPS | 1,1,2,3,2,3,3,3
+85. Vulture Yamamoto: 197473 GDPS, 118007 DPS | 2,2,3,2,2,3,3,3
+86. Sturdy Yamamoto: 197284 GDPS, 120676 DPS | 3,2,3,2,2,3,3,3
+87. Avatar Saitama: 197055 GDPS, 197055 DPS | 1,1,2,3,2,3,3,3
+88. Entrepreneur Sukuna (Evo): 196939 GDPS, 196939 DPS | 1,1,2,3,2,3,3,3
+89. Sturdy Saber: 196860 GDPS, 49215 DPS | 1,1,2,3,2,3,3,3
+90. Shinigami Sukuna (Evo): 195357 GDPS, 195357 DPS | 1,1,2,3,2,3,3,3
+91. Elemental Master Sukuna (Evo): 194974 GDPS, 194974 DPS | 1,1,2,3,2,3,3,3
+92. Cosmic Sukuna (Evo): 194898 GDPS, 194898 DPS | 1,1,2,3,2,3,3,3
+93. Shinigami Saitama: 194176 GDPS, 97088 DPS | 1,1,2,3,2,3,3,3
+94. Diamond Yamamoto: 192376 GDPS, 117674 DPS | 3,2,3,2,2,3,3,3
+95. Entrepreneur Saitama: 192250 GDPS, 96125 DPS | 1,1,2,3,2,3,3,3
+96. Diamond Saber: 191812 GDPS, 47953 DPS | 1,1,2,3,2,3,3,3
+97. Elemental Master Saber: 191812 GDPS, 47953 DPS | 1,1,2,3,2,3,3,3
+98. Elemental Master Yamamoto: 191388 GDPS, 109084 DPS | 1,1,2,3,2,3,3,3
+99. Accelerate Yamamoto: 190346 GDPS, 97488 DPS | 1,1,2,3,2,3,3,3
+100. Shinigami Genos: 189954 GDPS, 31659 DPS | 1,1,2,3,2,3,3,3
+101. Entrepreneur Genos: 188070 GDPS, 31345 DPS | 1,1,2,3,2,3,3,3
+102. Scoped Yamamoto: 187468 GDPS, 114672 DPS | 2,2,3,2,2,3,3,3
+103. Shining Yamamoto: 187468 GDPS, 114672 DPS | 3,2,3,2,2,3,3,3
+104. Eagle Eye Yamamoto: 187468 GDPS, 114672 DPS | 3,2,3,2,2,3,3,3
+105. Golden Yamamoto: 187468 GDPS, 114672 DPS | 3,2,3,2,2,3,3,3
+106. Shining Saber: 186764 GDPS, 46691 DPS | 1,1,2,3,2,3,3,3
+107. Scoped Saber: 186764 GDPS, 46691 DPS | 1,1,2,3,2,3,3,3
+108. Golden Saber: 186764 GDPS, 46691 DPS | 1,1,2,3,2,3,3,3
+109. Eagle Eye Saber: 186764 GDPS, 46691 DPS | 1,1,2,3,2,3,3,3
+110. All Seeing Sukuna: 186730 GDPS, 66727 DPS | 1,1,2,3,2,3,3,3
+111. Cosmic Saitama: 186538 GDPS, 93269 DPS | 1,1,2,3,2,3,3,3
+112. Shinigami Whitebeard: 184608 GDPS, 46152 DPS | 1,1,2,3,2,3,3,3
+113. Overlord Gojo: 182980 GDPS, 182980 DPS | 1,1,2,3,2,2,1,1
+114. Entrepreneur Whitebeard: 182776 GDPS, 45694 DPS | 1,1,2,3,2,3,3,3
+115. Cosmic Genos: 182484 GDPS, 30414 DPS | 1,1,2,3,2,3,3,3
+116. Juggernaut Yamamoto: 181606 GDPS, 93020 DPS | 1,1,2,3,2,3,3,3
+117. Avatar Gojo (Evo): 181348 GDPS, 181348 DPS | 1,1,2,3,2,3,3,3
+118. Overlord Saber: 179167 GDPS, 179167 DPS | 1,1,2,3,2,2,1,1
+119. Cosmic Whitebeard: 177348 GDPS, 44337 DPS | 1,1,2,3,2,3,3,3
+120. Demi God Sukuna (Evo): 174714 GDPS, 174714 DPS | 1,1,2,3,2,3,3,3
+121. Hyper Speed Sukuna (Evo): 172790 GDPS, 172790 DPS | 1,1,2,3,2,3,3,3
+122. Shinigami Yami: 171100 GDPS, 42775 DPS | 1,1,2,3,2,3,3,3
+123. Entrepreneur Yami: 169404 GDPS, 42351 DPS | 1,1,2,3,2,3,3,3
+124. All Seeing Gogeta: 167176 GDPS, 41794 DPS | 1,1,2,3,2,3,3,3
+125. Demi God Saitama: 167062 GDPS, 83531 DPS | 1,1,2,3,2,3,3,3
+126. Accelerate Sukuna (Evo): 165502 GDPS, 165502 DPS | 1,1,2,3,2,3,3,3
+127. Hyper Speed Saitama: 165418 GDPS, 82709 DPS | 1,1,2,3,2,3,3,3
+128. Shinigami Gon: 164427 GDPS, 54809 DPS | 1,1,2,3,2,3,3,3
+129. Cosmic Yami: 164372 GDPS, 41093 DPS | 1,1,2,3,2,3,3,3
+130. Demi God Genos: 163434 GDPS, 27239 DPS | 1,1,2,3,2,3,3,3
+131. Entrepreneur Gon: 162795 GDPS, 54265 DPS | 1,1,2,3,2,3,3,3
+132. Hyper Speed Genos: 161826 GDPS, 26971 DPS | 1,1,2,3,2,3,3,3
+133. Accelerate Saitama: 158854 GDPS, 79427 DPS | 1,1,2,3,2,3,3,3
+134. Demi God Whitebeard: 158832 GDPS, 39708 DPS | 1,1,2,3,2,3,3,3
+135. Cosmic Gon: 157959 GDPS, 52653 DPS | 1,1,2,3,2,3,3,3
+136. Juggernaut Sukuna (Evo): 157926 GDPS, 157926 DPS | 1,1,2,3,2,3,3,3
+137. Hyper Speed Whitebeard: 157268 GDPS, 39317 DPS | 1,1,2,3,2,3,3,3
+138. All Seeing Itachi: 156564 GDPS, 72426 DPS | 1,1,2,3,2,3,3,3
+139. Accelerate Genos: 155400 GDPS, 25900 DPS | 1,1,2,3,2,3,3,3
+140. Overlord Itachi: 151658 GDPS, 151658 DPS | 1,1,2,3,2,3,3,3
+141. Juggernaut Saitama: 151546 GDPS, 75773 DPS | 1,1,2,3,2,3,3,3
+142. Accelerate Whitebeard: 151028 GDPS, 37757 DPS | 1,1,2,3,2,3,3,3
+143. Sturdy Sukuna (Evo): 150623 GDPS, 150623 DPS | 1,1,2,3,2,3,3,3
+144. Vulture Saitama: 148844 GDPS, 74422 DPS | 1,1,2,3,2,3,3,3
+145. Overlord Gon: 148489 GDPS, 148489 DPS | 1,1,2,3,2,2,1,1
+146. Juggernaut Genos: 148254 GDPS, 24709 DPS | 1,1,2,3,2,3,3,3
+147. Demi God Yami: 147208 GDPS, 36802 DPS | 1,1,2,3,2,3,3,3
+148. Vulture Sukuna (Evo): 147099 GDPS, 147099 DPS | 1,1,2,3,2,3,3,3
+149. Diamond Sukuna (Evo): 146760 GDPS, 146760 DPS | 1,1,2,3,2,3,3,3
+150. Hyper Speed Yami: 145760 GDPS, 36440 DPS | 1,1,2,3,2,3,3,3
+151. Vulture Genos: 145608 GDPS, 24268 DPS | 1,1,2,3,2,3,3,3
+152. Sturdy Saitama: 144504 GDPS, 72252 DPS | 1,1,2,3,2,3,3,3
+153. Juggernaut Whitebeard: 144080 GDPS, 36020 DPS | 1,1,2,3,2,3,3,3
+154. Golden Sukuna (Evo): 142898 GDPS, 142898 DPS | 1,1,2,3,2,3,3,3
+155. Shining Sukuna (Evo): 142898 GDPS, 142898 DPS | 1,1,2,3,2,3,3,3
+156. Scoped Sukuna (Evo): 142898 GDPS, 142898 DPS | 1,1,2,3,2,3,3,3
+157. Eagle Eye Sukuna (Evo): 142898 GDPS, 142898 DPS | 1,1,2,3,2,3,3,3
+158. Vulture Whitebeard: 141512 GDPS, 35378 DPS | 1,1,2,3,2,3,3,3
+159. Demi God Gon: 141468 GDPS, 47156 DPS | 1,1,2,3,2,3,3,3
+160. Sturdy Genos: 141366 GDPS, 23561 DPS | 1,1,2,3,2,3,3,3
+161. Diamond Saitama: 140798 GDPS, 70399 DPS | 1,1,2,3,2,3,3,3
+162. Elemental Master Saitama: 140798 GDPS, 70399 DPS | 1,1,2,3,2,3,3,3
+163. Hyper Speed Gon: 140076 GDPS, 46692 DPS | 1,1,2,3,2,3,3,3
+164. Accelerate Yami: 139976 GDPS, 34994 DPS | 1,1,2,3,2,3,3,3
+165. Overlord Sukuna: 138838 GDPS, 138838 DPS | 1,1,2,3,2,3,3,3
+166. Elemental Master Genos: 137742 GDPS, 22957 DPS | 1,1,2,3,2,3,3,3
+167. Diamond Genos: 137742 GDPS, 22957 DPS | 1,1,2,3,2,3,3,3
+168. Sturdy Whitebeard: 137384 GDPS, 34346 DPS | 1,1,2,3,2,3,3,3
+169. Golden Saitama: 137094 GDPS, 68547 DPS | 1,1,2,3,2,3,3,3
+170. Eagle Eye Saitama: 137094 GDPS, 68547 DPS | 1,1,2,3,2,3,3,3
+171. Scoped Saitama: 137094 GDPS, 68547 DPS | 1,1,2,3,2,3,3,3
+172. Shining Saitama: 137094 GDPS, 68547 DPS | 1,1,2,3,2,3,3,3
+173. Avatar Gojo: 137082 GDPS, 137082 DPS | 1,1,2,3,2,3,3,3
+174. Shinigami Gojo: 135078 GDPS, 67539 DPS | 1,1,2,3,2,3,3,3
+175. Shinigami Sukuna: 135069 GDPS, 53457 DPS | 1,1,2,3,2,3,3,3
+176. Accelerate Gon: 134517 GDPS, 44839 DPS | 1,1,2,3,2,3,3,3
+177. Entrepreneur Sukuna: 134462 GDPS, 53660 DPS | 1,1,2,3,2,3,3,3
+178. Avatar Saber: 134226 GDPS, 134226 DPS | 1,1,2,3,2,3,3,3
+179. Eagle Eye Genos: 134118 GDPS, 22353 DPS | 1,1,2,3,2,3,3,3
+180. Shining Genos: 134118 GDPS, 22353 DPS | 1,1,2,3,2,3,3,3
+181. Golden Genos: 134118 GDPS, 22353 DPS | 1,1,2,3,2,3,3,3
+182. Scoped Genos: 134118 GDPS, 22353 DPS | 1,1,2,3,2,3,3,3
+183. Diamond Whitebeard: 133860 GDPS, 33465 DPS | 1,1,2,3,2,3,3,3
+184. Elemental Master Whitebeard: 133860 GDPS, 33465 DPS | 1,1,2,3,2,3,3,3
+185. Entrepreneur Gojo: 133738 GDPS, 66869 DPS | 1,1,2,3,2,3,3,3
+186. Juggernaut Yami: 133536 GDPS, 33384 DPS | 1,1,2,3,2,3,3,3
+187. All Seeing Gojo (Evo): 131380 GDPS, 131380 DPS | 1,1,2,3,2,3,3,3
+188. Cosmic Sukuna: 131262 GDPS, 52860 DPS | 1,1,2,3,2,3,3,3
+189. Vulture Yami: 131156 GDPS, 32789 DPS | 1,1,2,3,2,3,3,3
+190. Scoped Whitebeard: 130340 GDPS, 32585 DPS | 1,1,2,3,2,3,3,3
+191. Eagle Eye Whitebeard: 130340 GDPS, 32585 DPS | 1,1,2,3,2,3,3,3
+192. Golden Whitebeard: 130340 GDPS, 32585 DPS | 1,1,2,3,2,3,3,3
+193. Shining Whitebeard: 130340 GDPS, 32585 DPS | 1,1,2,3,2,3,3,3
+194. Cosmic Gojo: 129766 GDPS, 64883 DPS | 1,1,2,3,2,3,3,3
+195. Juggernaut Gon: 128328 GDPS, 42776 DPS | 1,1,2,3,2,3,3,3
+196. Sturdy Yami: 127332 GDPS, 31833 DPS | 1,1,2,3,2,3,3,3
+197. Vulture Gon: 126042 GDPS, 42014 DPS | 1,1,2,3,2,3,3,3
+198. Overlord Whitebeard: 125036 GDPS, 125036 DPS | 1,1,2,3,2,2,1,1
+199. Diamond Yami: 124068 GDPS, 31017 DPS | 1,1,2,3,2,3,3,3
+200. Elemental Master Yami: 124068 GDPS, 31017 DPS | 1,1,2,3,2,3,3,3
+201. Sturdy Gon: 122364 GDPS, 40788 DPS | 1,1,2,3,2,3,3,3
+202. Golden Yami: 120804 GDPS, 30201 DPS | 1,1,2,3,2,3,3,3
+203. Eagle Eye Yami: 120804 GDPS, 30201 DPS | 1,1,2,3,2,3,3,3
+204. Shining Yami: 120804 GDPS, 30201 DPS | 1,1,2,3,2,3,3,3
+205. Scoped Yami: 120804 GDPS, 30201 DPS | 1,1,2,3,2,3,3,3
+206. Diamond Gon: 119229 GDPS, 39743 DPS | 1,1,2,3,2,3,3,3
+207. Elemental Master Gon: 119229 GDPS, 39743 DPS | 1,1,2,3,2,3,3,3
+208. Demi God Sukuna: 117590 GDPS, 47375 DPS | 1,1,2,3,2,3,3,3
+209. Hyper Speed Sukuna: 116391 GDPS, 46866 DPS | 1,1,2,3,2,3,3,3
+210. Demi God Gojo: 116218 GDPS, 58109 DPS | 1,1,2,3,2,3,3,3
+211. Scoped Gon: 116091 GDPS, 38697 DPS | 1,1,2,3,2,3,3,3
+212. Shining Gon: 116091 GDPS, 38697 DPS | 1,1,2,3,2,3,3,3
+213. Eagle Eye Gon: 116091 GDPS, 38697 DPS | 1,1,2,3,2,3,3,3
+214. Golden Gon: 116091 GDPS, 38697 DPS | 1,1,2,3,2,3,3,3
+215. Overlord Yami: 115887 GDPS, 115887 DPS | 1,1,2,3,2,2,1,1
+216. Shinigami Itachi: 115652 GDPS, 58430 DPS | 1,1,2,3,2,3,3,3
+217. Entrepreneur Itachi: 115338 GDPS, 58684 DPS | 1,1,2,3,2,3,3,3
+218. Hyper Speed Gojo: 115074 GDPS, 57537 DPS | 1,1,2,3,2,3,3,3
+219. Shinigami Gogeta: 113692 GDPS, 28423 DPS | 1,1,2,3,2,3,3,3
+220. Cosmic Itachi: 112815 GDPS, 57843 DPS | 1,1,2,3,2,3,3,3
+221. Entrepreneur Gogeta: 112564 GDPS, 28141 DPS | 1,1,2,3,2,3,3,3
+222. Accelerate Sukuna: 111681 GDPS, 44916 DPS | 1,1,2,3,2,3,3,3
+223. Avatar Gon: 111243 GDPS, 111243 DPS | 1,1,2,3,2,3,3,3
+224. Accelerate Gojo: 110508 GDPS, 55254 DPS | 1,1,2,3,2,3,3,3
+225. Cosmic Gogeta: 109220 GDPS, 27305 DPS | 1,1,2,3,2,3,3,3
+226. Elemental Master Sukuna: 109054 GDPS, 49876 DPS | 1,1,2,3,2,3,3,3
+227. Juggernaut Sukuna: 106555 GDPS, 42859 DPS | 1,1,2,3,2,3,3,3
+228. Juggernaut Gojo: 105424 GDPS, 52712 DPS | 1,1,2,3,2,3,3,3
+229. Vulture Gojo: 103544 GDPS, 51772 DPS | 1,1,2,3,2,3,3,3
+230. Vulture Sukuna: 102983 GDPS, 40424 DPS | 1,1,2,3,2,3,3,3
+231. Sturdy Sukuna: 101609 GDPS, 40874 DPS | 1,1,2,3,2,3,3,3
+232. Demi God Itachi: 101074 GDPS, 51842 DPS | 1,1,2,3,2,3,3,3
+233. Sturdy Gojo: 100524 GDPS, 50262 DPS | 1,1,2,3,2,3,3,3
+234. Hyper Speed Itachi: 100032 GDPS, 51284 DPS | 1,1,2,3,2,3,3,3
+235. Vulture Itachi: 99553 GDPS, 59491 DPS | 2,2,3,2,2,3,3,3
+236. Sturdy Itachi: 99456 GDPS, 60836 DPS | 3,2,3,2,2,3,3,3
+237. Diamond Sukuna: 99004 GDPS, 39826 DPS | 1,1,2,3,2,3,3,3
+238. Diamond Gojo: 97948 GDPS, 48974 DPS | 1,1,2,3,2,3,3,3
+239. Elemental Master Gojo: 97948 GDPS, 48974 DPS | 1,1,2,3,2,3,3,3
+240. Demi God Gogeta: 97816 GDPS, 24454 DPS | 1,1,2,3,2,3,3,3
+241. Diamond Itachi: 96983 GDPS, 59323 DPS | 3,2,3,2,2,3,3,3
+242. Hyper Speed Gogeta: 96856 GDPS, 24214 DPS | 1,1,2,3,2,3,3,3
+243. Elemental Master Itachi: 96485 GDPS, 54993 DPS | 1,1,2,3,2,3,3,3
+244. Eagle Eye Sukuna: 96399 GDPS, 38778 DPS | 1,1,2,3,2,3,3,3
+245. Shining Sukuna: 96399 GDPS, 38778 DPS | 1,1,2,3,2,3,3,3
+246. Scoped Sukuna: 96399 GDPS, 38778 DPS | 1,1,2,3,2,3,3,3
+247. Golden Sukuna: 96399 GDPS, 38778 DPS | 1,1,2,3,2,3,3,3
+248. Accelerate Itachi: 95958 GDPS, 49146 DPS | 1,1,2,3,2,3,3,3
+249. Scoped Gojo: 95370 GDPS, 47685 DPS | 1,1,2,3,2,3,3,3
+250. Eagle Eye Gojo: 95370 GDPS, 47685 DPS | 1,1,2,3,2,3,3,3
+251. Shining Gojo: 95370 GDPS, 47685 DPS | 1,1,2,3,2,3,3,3
+252. Golden Gojo: 95370 GDPS, 47685 DPS | 1,1,2,3,2,3,3,3
+253. Shining Itachi: 94510 GDPS, 57810 DPS | 3,2,3,2,2,3,3,3
+254. Eagle Eye Itachi: 94510 GDPS, 57810 DPS | 3,2,3,2,2,3,3,3
+255. Golden Itachi: 94510 GDPS, 57810 DPS | 3,2,3,2,2,3,3,3
+256. Scoped Itachi: 94510 GDPS, 57810 DPS | 2,2,3,2,2,3,3,3
+257. Avatar Whitebeard: 93673 GDPS, 93673 DPS | 1,1,2,3,2,3,3,3
+258. Accelerate Gogeta: 93012 GDPS, 23253 DPS | 1,1,2,3,2,3,3,3
+259. Juggernaut Itachi: 91555 GDPS, 46895 DPS | 1,1,2,3,2,3,3,3
+260. Shinigami Gojo (Evo): 89349 GDPS, 89349 DPS | 1,1,2,3,2,3,3,3
+261. Juggernaut Gogeta: 88732 GDPS, 22183 DPS | 1,1,2,3,2,3,3,3
+262. Entrepreneur Gojo (Evo): 88463 GDPS, 88463 DPS | 1,1,2,3,2,3,3,3
+263. Vulture Gogeta: 87152 GDPS, 21788 DPS | 1,1,2,3,2,3,3,3
+264. Avatar Yami: 86819 GDPS, 86819 DPS | 1,1,2,3,2,3,3,3
+265. Cosmic Gojo (Evo): 85835 GDPS, 85835 DPS | 1,1,2,3,2,3,3,3
+266. Overlord Genos: 85772 GDPS, 85772 DPS | 1,1,2,3,2,2,1,1
+267. Sturdy Gogeta: 84608 GDPS, 21152 DPS | 1,1,2,3,2,3,3,3
+268. Diamond Gogeta: 82440 GDPS, 20610 DPS | 1,1,2,3,2,3,3,3
+269. Elemental Master Gogeta: 82440 GDPS, 20610 DPS | 1,1,2,3,2,3,3,3
+270. Shining Gogeta: 80272 GDPS, 20068 DPS | 1,1,2,3,2,3,3,3
+271. Golden Gogeta: 80272 GDPS, 20068 DPS | 1,1,2,3,2,3,3,3
+272. Eagle Eye Gogeta: 80272 GDPS, 20068 DPS | 1,1,2,3,2,3,3,3
+273. Scoped Gogeta: 80272 GDPS, 20068 DPS | 1,1,2,3,2,3,3,3
+274. Overlord Gogeta: 77004 GDPS, 77004 DPS | 1,1,2,3,2,2,1,1
+275. Demi God Gojo (Evo): 76873 GDPS, 76873 DPS | 1,1,2,3,2,3,3,3
+276. Hyper Speed Gojo (Evo): 76117 GDPS, 76117 DPS | 1,1,2,3,2,3,3,3
+277. Accelerate Gojo (Evo): 73096 GDPS, 73096 DPS | 1,1,2,3,2,3,3,3
+278. Juggernaut Gojo (Evo): 69733 GDPS, 69733 DPS | 1,1,2,3,2,3,3,3
+279. Vulture Gojo (Evo): 68490 GDPS, 68490 DPS | 1,1,2,3,2,3,3,3
+280. Sturdy Gojo (Evo): 66493 GDPS, 66493 DPS | 1,1,2,3,2,3,3,3
+281. Elemental Master Gojo (Evo): 64788 GDPS, 64788 DPS | 1,1,2,3,2,3,3,3
+282. Diamond Gojo (Evo): 64788 GDPS, 64788 DPS | 1,1,2,3,2,3,3,3
+283. Avatar Genos: 64257 GDPS, 64257 DPS | 1,1,2,3,2,3,3,3
+284. Golden Gojo (Evo): 63083 GDPS, 63083 DPS | 1,1,2,3,2,3,3,3
+285. Eagle Eye Gojo (Evo): 63083 GDPS, 63083 DPS | 1,1,2,3,2,3,3,3
+286. Shining Gojo (Evo): 63083 GDPS, 63083 DPS | 1,1,2,3,2,3,3,3
+287. Scoped Gojo (Evo): 63083 GDPS, 63083 DPS | 1,1,2,3,2,3,3,3
+288. Avatar Gogeta: 57689 GDPS, 57689 DPS | 1,1,2,3,2,3,3,3
