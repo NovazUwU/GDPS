@@ -8,7 +8,7 @@ Range/Support Tree: Vision 1, Empowered Crit 1, Vision 2, Enlightened Sight, Cri
 
 Effects: [
    Dismantled 0.783x DOTPS
-   Burn 0.54x DOTPS
+   Burn 0.54x DOTPS + 4s Reapply Time
    Bleed 0.416x DOTPS
 ]
 
