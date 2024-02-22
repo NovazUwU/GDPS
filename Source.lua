@@ -2,173 +2,180 @@
     dm @cloneref on discord if something gets changed  
 ]]
 
+local LevelMultiplier = 3.2
 local Stats = { -- Level 75: 3.2 Multi
     ["Mash"] = {
         ["Placements"] = 4,
         ["SPA"] = 8,
-        ["Damage"] = 260480
+        ["Damage"] = 81400 * LevelMultiplier
     },
     ["Saitama"] = {
         ["Placements"] = 2,
         ["SPA"] = 8,
-        ["Damage"] = 176640
+        ["Damage"] = 55200 * LevelMultiplier
     },
     ["Gon"] = {
         ["Placements"] = 3,
         ["SPA"] = 10.5,
-        ["Damage"] = 130880 
+        ["Damage"] = 40900 * LevelMultiplier
     },
     ["Saber"] = {
         ["Placements"] = 4,
         ["SPA"] = 8,
-        ["Damage"] = 120320,
+        ["Damage"] = 37600 * LevelMultiplier,
         ["Ability"] = "Mana Release"
     },
     ["Gojo (Evo)"] = {
         ["Placements"] = 2,
         ["SPA"] = 12,
-        ["Damage"] = 297600,
+        ["Damage"] = 93000 * LevelMultiplier,
         ["Ability"] = "Unlimited Void"
     },
     ["Gojo"] = {
         ["Placements"] = 2,
         ["SPA"] = 3.75,
-        ["Damage"] = 57600
+        ["Damage"] = 18000 * LevelMultiplier
     },
     ["Sukuna (Evo)"] = {
         ["Placements"] = 1,
         ["SPA"] = 6,
-        ["Damage"] = 94720,
+        ["Damage"] = 29600 * LevelMultiplier,
         ["Effect"] = "Dismantled",
         ["Ability"] = "Fire Arrow"
     },
     ["Sukuna"] = {
         ["Placements"] = 4,
         ["SPA"] = 6,
-        ["Damage"] = 37120,
+        ["Damage"] = 11600 * LevelMultiplier,
         ["Effect"] = "Bleed"
     },
     ["Guts"] = {
         ["Placements"] = 2,
         ["SPA"] = 8,
-        ["Damage"] = 146880,
+        ["Damage"] = 45900 * LevelMultiplier,
         ["Effect"] = "Bleed"
     },
     ["Roy"] = {
         ["Placements"] = 4,
         ["SPA"] = 7,
-        ["Damage"] = 105280,
+        ["Damage"] = 32900 * LevelMultiplier,
         ["Effect"] = "Burn"
     },
     ["Whitebeard"] = {
         ["Placements"] = 4,
         ["SPA"] = 7.5,
-        ["Damage"] = 78720
+        ["Damage"] = 24600 * LevelMultiplier
     },
     ["Yamamoto"] = {
         ["Placements"] = 3,
         ["SPA"] = 6,
-        ["Damage"] = 77440,
+        ["Damage"] = 24200 * LevelMultiplier,
         ["Effect"] = "Burn"
     },
     ["Itachi"] = {
         ["Placements"] = 3,
         ["SPA"] = 6,
-        ["Damage"] = 39040,
+        ["Damage"] = 12200 * LevelMultiplier,
         ["Effect"] = "Burn",
         ["Ability"] = "Black Flames"
     },
     ["Yami"] = {
         ["Placements"] = 4,
         ["SPA"] = 5,
-        ["Damage"] = 48640
+        ["Damage"] = 15200 * LevelMultiplier
     },
     ["Genos"] = {
         ["Placements"] = 6,
         ["SPA"] = 8,
-        ["Damage"] = 57600
+        ["Damage"] = 18000 * LevelMultiplier
     },
     ["Gogeta"] = {
         ["Placements"] = 4,
         ["SPA"] = 5,
-        ["Damage"] = 32320
+        ["Damage"] = 10100 * LevelMultiplier
     },
     ["Frieza"] = {
         ["Placements"] = 4,
         ["SPA"] = 6.5,
-        ["Damage"] = 21760
+        ["Damage"] = 6800 * LevelMultiplier
     },
-    ["Nami (Drip)"] = {
+    ["Drip Nami"] = {
         ["Placements"] = 8,
         ["SPA"] = 6,
-        ["Damage"] = 2864
+        ["Damage"] = 895 * LevelMultiplier
     },
-    ["Gohan (Drip)"] = {
+    ["Drip Gohan"] = {
         ["Placements"] = 6,
         ["SPA"] = 5,
-        ["Damage"] = 1994
+        ["Damage"] = 623 * LevelMultiplier
     },
     ["Ulquiorra"] = {
         ["Placements"] = 3,
         ["SPA"] = 5,
-        ["Damage"] = 54080
+        ["Damage"] = 16900 * LevelMultiplier
     },
     ["Zenitsu"] = {
         ["Placements"] = 4,
         ["SPA"] = 5.5,
-        ["Damage"] = 6368,
+        ["Damage"] = 1990 * LevelMultiplier,
         ["Effect"] = "Electrified"
     },
     ["Byakuya"] = {
         ["Placements"] = 5,
         ["SPA"] = 6,
-        ["Damage"] = 6080,
+        ["Damage"] = 1900 * LevelMultiplier,
         ["Effect"] = "Bleed"
     },
     ["Sanemi"] = {
         ["Placements"] = 4,
         ["SPA"] = 6,
-        ["Damage"] = 13632,
+        ["Damage"] = 4260 * LevelMultiplier,
         ["Effect"] = "Bleed"
     },
     ["Luffy (Timeskip)"] = {
         ["Placements"] = 3,
         ["SPA"] = 6,
-        ["Damage"] = 9376,
+        ["Damage"] = 2930 * LevelMultiplier,
         ["Effect"] = "Burn",
         ["Ability"] = "Timestop"
     },
     ["Shinra"] = {
         ["Placements"] = 4,
         ["SPA"] = 5,
-        ["Damage"] = 14016,
+        ["Damage"] = 4380 * LevelMultiplier,
         ["Effect"] = "Burn"
     },
     ["Grimmjow"] = {
         ["Placements"] = 3,
         ["SPA"] = 6,
-        ["Damage"] = 38080
+        ["Damage"] = 11900 * LevelMultiplier
     },
     ["Piccolo"] = {
         ["Placements"] = 4,
         ["SPA"] = 4.5,
-        ["Damage"] = 18496
+        ["Damage"] = 5780 * LevelMultiplier
     },
     ["Uryu"] = {
         ["Placements"] = 4,
         ["SPA"] = 6,
-        ["Damage"] = 21280
+        ["Damage"] = 6650 * LevelMultiplier
     },
-    ["Vegeta (Super)"] = {
+    ["Super Vegeta"] = {
         ["Placements"] = 4,
         ["SPA"] = 7,
-        ["Damage"] = 34560
+        ["Damage"] = 10800 * LevelMultiplier
     },
-    ["Goku (SS)"] = {
+    ["Super Saiyan Goku"] = {
         ["Placements"] = 4,
         ["SPA"] = 5.75,
-        ["Damage"] = 18624,
+        ["Damage"] = 5820 * LevelMultiplier,
         ["Ability"] = "Enraged"
+    },
+    ["Drip Nami (Evo)"] = {
+        ["Placements"] = 6,
+        ["SPA"] = 10,
+        ["Damage"] = 15900 * LevelMultiplier,
+        ["Effect"] = "Electrified"
     }
 }
 
@@ -522,7 +529,7 @@ local Calculate = function(Name, Trait, Tree)
     }
 
     if Effect then 
-        local Duration = Effect["Time"] * DOTDuration
+        local Duration = math.floor(Effect["Time"] * DOTDuration)
         local TickMultiplier = Effect["Multiplier"] * DOTMultiplier / Duration
 
         local Divider = SPA 
@@ -533,9 +540,10 @@ local Calculate = function(Name, Trait, Tree)
         end 
 
         local TimeTagged = Duration / Divider
+        local DOTPS = Damage * TickMultiplier
 
-        DPS += (Damage * TickMultiplier * TimeTagged) 
-        GDPS += (Damage * TickMultiplier * math.clamp(TimeTagged * Placements, 0, 1)) 
+        DPS += (DOTPS * TimeTagged) 
+        GDPS += (DOTPS * math.clamp(TimeTagged * Placements, 0, 1)) 
     end 
 
     return DPS, GDPS, Bonuses, Ability 
