@@ -25,9 +25,9 @@ local Stats = { -- Level 75: 3.2 Multi
         ["Ability"] = "Mana Release"
     },
     ["Gojo (Evo)"] = {
-        ["Placements"] = 1,
+        ["Placements"] = 2,
         ["SPA"] = 12,
-        ["Damage"] = 243840,
+        ["Damage"] = 297600,
         ["Ability"] = "Unlimited Void"
     },
     ["Gojo"] = {
@@ -458,7 +458,7 @@ local Calculate = function(Name, Trait, Tree)
     elseif Trait == "Elemental Master" then 
         DamageMultiplier += 0.05
         DOTMultiplier = DOTMultiplier / 4 * 3
-        DOTDuration = DOTDuration / 2
+        DOTDuration = DOTDuration * 2.5
     elseif Trait == "Juggernaut" then 
         DamageMultiplier += 0.125
         SpeedMultiplier -= 0.025 
