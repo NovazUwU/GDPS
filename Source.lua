@@ -474,7 +474,7 @@ local Calculate = function(Name, Trait, Tree)
     elseif Trait == "Sturdy" then 
         DamageMultiplier += 0.1
     elseif Trait == "Accelerate" then 
-        SpeedMultiplier -= 0.1
+        SpeedMultiplier -= 0.08
     elseif Trait == "Golden" then 
         MoneyMultiplier += 0.125
     elseif Trait == "Eagle Eye" then 
