@@ -22,7 +22,7 @@ local Stats = { -- Level 75: 3.2 Multi
     ["Saber"] = {
         ["Placements"] = 4,
         ["SPA"] = 8,
-        ["Damage"] = 37600 * LevelMultiplier,
+        ["Damage"] = 53100 * LevelMultiplier,
         ["Ability"] = "Mana Release"
     },
     ["Gojo (Evo)"] = {
@@ -176,6 +176,32 @@ local Stats = { -- Level 75: 3.2 Multi
         ["SPA"] = 10,
         ["Damage"] = 15900 * LevelMultiplier,
         ["Effect"] = "Electrified"
+    },
+    ["Rias"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 9,
+        ["Damage"] = 31900 * LevelMultiplier
+    },
+    ["Boa"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 5,
+        ["Damage"] = 20400 * LevelMultiplier
+    },
+    ["Arrancar"] = {
+        ["Placements"] = 5,
+        ["SPA"] = 3,
+        ["Damage"] = 23600 * LevelMultiplier
+    },
+    ["Albedo"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 6,
+        ["Damage"] = 41000 * LevelMultiplier,
+        ["Effect"] = "Bleed"
+    },
+    ["Yuta"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 10,
+        ["Damage"] = 148000 * LevelMultiplier
     }
 }
 
@@ -419,8 +445,8 @@ local Calculate = function(Name, Trait, Tree)
     end 
 
     if Trait == "Overlord" then 
-        DamageMultiplier += 2.75 
-        SpeedMultiplier -= 0.2 
+        DamageMultiplier += 3
+        SpeedMultiplier -= 0.15 
         CritDamage += 0.75 
         RangeMultiplier += 0.15
         Placements = 1
@@ -432,9 +458,9 @@ local Calculate = function(Name, Trait, Tree)
         RangeMultiplier += 0.2
         Placements = 1
     elseif Trait == "Shinigami" then 
-        DamageMultiplier += 0.45 
+        DamageMultiplier += 0.50 
         SpeedMultiplier -= 0.15
-        CritDamage += 0.5
+        CritDamage += 0.9
         RangeMultiplier += 0.2
     elseif Trait == "Entrepreneur" then 
         DamageMultiplier += 0.15 
@@ -445,7 +471,7 @@ local Calculate = function(Name, Trait, Tree)
     elseif Trait == "All Seeing" then 
         DamageMultiplier += 0.15 
         SpeedMultiplier -= 0.15 
-        CritRate += 0.2 
+        CritRate += 0.15 
         CritDamage += 1
         RangeMultiplier += 0.55
     elseif Trait == "Demi God" then 
