@@ -10,7 +10,7 @@ Range/Support Tree: Vision 1, Empowered Crit 1, Vision 2, Enlightened Sight, Cri
 
 Effects: [
    Dismantled: 0.783x DOTPS
-   Electrified: 0.666x DOTPS + 6s Reapply Time
+   Electrified: 0.666x DOTPS + 7s Reapply Time
    Bleed: 0.416x DOTPS
    Burn: 0.54x DOTPS + 4s Reapply Time
    Fear: Enemies Take 10% More Damage
