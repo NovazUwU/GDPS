@@ -8,11 +8,12 @@ Nuke Tree: Vision 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2,
 
 Range/Support Tree: Vision 1, Empowered Crit 1, Vision 2, Enlightened Sight, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master
 
+dm me if any of these are wrong
 Effects: [
-   Dismantled: 0.783x DOTPS
-   Electrified: 0.666x DOTPS + 7s Reapply Time
-   Bleed: 0.416x DOTPS
-   Burn: 0.54x DOTPS + 4s Reapply Time
+   Dismantled: 6s
+   Electrified: 10s
+   Bleed: 6s
+   Burn: 9s 
    Fear: Enemies Take 10% More Damage
 ]
 
