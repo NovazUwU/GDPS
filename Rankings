@@ -1,1 +1,959 @@
+--cba to get new units so discontinued if you want to update it yourself you can edit this: 
 
+local Calculate = function(Damage, Zero)
+    if Zero then 
+        return Damage * 3.3 
+    end 
+    return Damage / (1 + 2.3 / 75) * 3.3
+end 
+
+local Stats = {
+    ["Mash"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 8,
+        ["Damage"] = Calculate(78987, true)
+    },
+    ["Saitama"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 8,
+        ["Damage"] = Calculate(53560, true)
+    },
+    ["Gon"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 10.5,
+        ["Damage"] = Calculate(39750, true)
+    },
+    ["Saber"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 8,
+        ["Damage"] = Calculate(51550, true)
+    },
+    ["Gojo (Evo)"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 12,
+        ["Damage"] = Calculate(93963, true)
+    },
+    ["Gojo"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 3.75,
+        ["Damage"] = Calculate(17550, true)
+    },
+    ["Sukuna (Evo)"] = {
+        ["Placements"] = 1,
+        ["SPA"] = 5.5,
+        ["Damage"] = Calculate(28780, true),
+        ["Effect"] = {"Dismantled"}
+    },
+    ["Sukuna"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(11350, true),
+        ["Effect"] = {"Bleed"}
+    },
+    ["Guts"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 8,
+        ["Damage"] = Calculate(44550, true),
+        ["Effect"] = {"Bleed"}
+    },
+    ["Roy"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 7,
+        ["Damage"] = Calculate(31950, true),
+        ["Effect"] = {"Burn"}
+    },
+    ["Whitebeard"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 7.5,
+        ["Damage"] = Calculate(23950, true)
+    },
+    ["Yamamoto"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(23490, true),
+        ["Effect"] = {"Burn"}
+    },
+    ["Itachi"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(11900, true),
+        ["Effect"] = {"Burn"}
+    },
+    ["Yami"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 5,
+        ["Damage"] = Calculate(14750, true)
+    },
+    ["Genos"] = {
+        ["Placements"] = 6,
+        ["SPA"] = 8,
+        ["Damage"] = Calculate(17500, true)
+    },
+    ["SSJ4 Gogeta"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 5,
+        ["Damage"] = Calculate(9870, true)
+    },
+    ["Frieza"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 6.5,
+        ["Damage"] = Calculate(3300, true)
+    },
+    ["Drip Nami"] = {
+        ["Placements"] = 8,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(869, true)
+    },
+    ["Drip Gohan"] = {
+        ["Placements"] = 6,
+        ["SPA"] = 5,
+        ["Damage"] = Calculate(605, true)
+    },
+    ["Ulquiorra"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 5,
+        ["Damage"] = Calculate(16480, true)
+    },
+    ["Zenitsu"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 5.5,
+        ["Damage"] = Calculate(1931, true),
+        ["Effect"] = {"Electrified"}
+    },
+    ["Byakuya"] = {
+        ["Placements"] = 5,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(2850, true),
+        ["Effect"] = {"Bleed"}
+    },
+    ["Sanemi"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(4140, true),
+        ["Effect"] = {"Bleed"}
+    },
+    ["Luffy (Timeskip)"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(2850, true),
+        ["Effect"] = {"Burn"}
+    },
+    ["Shinra"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 5,
+        ["Damage"] = Calculate(4251, true),
+        ["Effect"] = {"Burn"}
+    },
+    ["Grimmjow"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(11560, true)
+    },
+    ["Piccolo"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 4.5,
+        ["Damage"] = Calculate(5611, true)
+    },
+    ["Uryu"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(6453, true)
+    },
+    ["Super Vegeta"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 7,
+        ["Damage"] = Calculate(10515, true)
+    },
+    ["SSJ Goku"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 5.75,
+        ["Damage"] = Calculate(5655, true)
+    },
+    ["Drip Nami (Evo)"] = {
+        ["Placements"] = 6,
+        ["SPA"] = 6.5,
+        ["Damage"] = Calculate(15500, true),
+        ["Effect"] = {"Electrified"}
+    },
+    ["Rias"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 9,
+        ["Damage"] = Calculate(57000, true)
+    },
+    ["Boa"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 5,
+        ["Damage"] = Calculate(19855, true)
+    },
+    ["Arrancar"] = {
+        ["Placements"] = 5,
+        ["SPA"] = 3,
+        ["Damage"] = Calculate(22950, true)
+    },
+    ["Albedo"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(39783, true),
+        ["Effect"] = {"Bleed"}
+    },
+    ["Yuta"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 10,
+        ["Damage"] = Calculate(143900, true)
+    },
+    ["Minato"] = {
+        ["Placements"] = 6,
+        ["SPA"] = 5, 
+        ["Damage"] = Calculate(1400, true)
+    },
+    ["Minato (Evo)"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 13,
+        ["Damage"] = Calculate(41890, true)
+    },
+    ["Yuta (Electrified)"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 7,
+        ["Damage"] = Calculate(57400),
+        ["Effect"] = {"Electrified"}
+    },
+    ["Roy (Fire Pillar)"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 5,
+        ["Damage"] = Calculate(15400),
+        ["Hits"] = 3.4,
+        ["Effect"] = {"Burn"}
+    },
+    ["Jotaro"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(33900, true)
+    },
+    ["Bruford"] = {
+        ["Placements"] = 5,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(7500, true),
+        ["Effect"] = {"Bleed"}
+    },
+    ["Stroheim"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 11,
+        ["Damage"] = Calculate(10760, true)
+    },
+    ["Akeno"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 9,
+        ["Damage"] = Calculate(78850, true),
+        ["Effect"] = {"Electrified"}
+    },
+    ["Ghiaccio"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 11,
+        ["Damage"] = Calculate(29850, true)
+    },
+    ["Jotaro (OH)"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(100900, true)
+    },
+    ["Guitar Hero"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 11,
+        ["Damage"] = Calculate(36000, true)
+    },
+    ["Meteor Guard"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 9,
+        ["Damage"] = Calculate(47000, true),
+        ["Effect"] = {"Burn"}
+    },
+    ["Bobak"] = {
+        ["Placements"] = 5,
+        ["SPA"] = 3,
+        ["Damage"] = Calculate(10000, true)
+    },
+    ["The Trio"] = {
+        ["Placements"] = 1,
+        ["SPA"] = 9,
+        ["Damage"] = Calculate(12850, true)
+    },
+    ["The Squad"] = {
+        ["Placements"] = 1,
+        ["SPA"] = 12,
+        ["Damage"] = Calculate(128850, true),
+        ["Effect"] = {"Electrified"}
+    },
+    ["Android 21"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 9,
+        ["Damage"] = Calculate(48850, true)
+    },
+    ["Android 21 (Super)"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 9,
+        ["Damage"] = Calculate(88850, true),
+    },
+    ["SSJ Gohan"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 8,
+        ["Damage"] = Calculate(86850, true)
+    },
+    ["Piccolo (Ultimate)"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 9,
+        ["Damage"] = Calculate(98850, true)
+    },
+    ["SSJ3 Goku"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 9,
+        ["Damage"] = Calculate(49310, true)
+    },
+    ["Majin Vegeta"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 7,
+        ["Damage"] = Calculate(71920, true)
+    },
+    ["Vegito"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 9.5,
+        ["Damage"] = Calculate(113555, true)
+    },
+    ["SSJ Vegito"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 7,
+        ["Damage"] = Calculate(236555, true)
+    },
+    ["Shenron (Evo)"] = {
+        ["Placements"] = 1,
+        ["SPA"] = 10,
+        ["Damage"] = Calculate(102850, true) 
+    },
+    ["Shenron"] = {
+        ["Placements"] = 1,
+        ["SPA"] = 6,
+        ["Damage"] = Calculate(13290, true)
+    },
+    ["Shenron (Shiny)"] = {
+        ["Placements"] = 1,
+        ["SPA"] = 8,
+        ["Damage"] = Calculate(175850, true)
+    },
+    ["Shanks"] = {
+        ["Placements"] = 3,
+        ["SPA"] = 10,
+        ["Damage"] = Calculate(98600, true),
+        ["Effect"] = {"Bleed", "Conquered"}
+    },
+    ["Shanks (Young)"] = {
+        ["Placements"] = 4,
+        ["SPA"] = 7,
+        ["Damage"] = Calculate(16400, true),
+        ["Effect"] = {"Bleed"}
+    },
+    ["Itachi (Edo)"] = {
+        ["Placements"] = 2,
+        ["SPA"] = 9,
+        ["Damage"] = Calculate(76750, true),
+        ["Effect"] = {"Black Flames"}
+    },
+    ["Vash"] = {
+        ["Placements"] = 6,
+        ["SPA"] = 7,
+        ["Damage"] = Calculate(24500, true)
+    },
+    ["Kurama"] = {
+        ["Placements"] = 1,
+        ["SPA"] = 20,
+        ["Damage"] = Calculate(480000, true)
+    }
+}
+
+local Skills = {
+    ["Empower 1"] = {
+        ["Damage"] = 0.04
+    },
+    ["Shatter 1"] = {
+        ["Speed"] = 0.03,
+        ["Penetration"] = 0.1
+    },
+    ["Speedy 1"] = {
+        ["Speed"] = 0.02
+    },
+    ["Vision 1"] = {
+        ["Range"] = 0.025
+    },
+    ["Rich"] = {
+        ["Money"] = 0.15
+    },
+    ["Element 1"] = {
+        ["Elemental"] = 0.15
+    },
+    ["Empowered Crit 1"] = {
+        ["Critical"] = 0.2
+    },
+    ["Vision 2"] = {
+        ["Range"] = 0.05
+    },
+    ["Speedy 2"] = {
+        ["Speed"] = 0.04
+    },
+    ["Empower 2"] = {
+        ["Damage"] = 0.06
+    },
+    ["Enlightened Power"] = {
+        ["Damage"] = 0.1,
+        ["Range"] = 0.05
+    },
+    ["Enlightened Sight"] = {
+        ["Damage"] = 0.05,
+        ["Range"] = 0.1,
+        ["Speed"] = 0.05
+    },
+    ["Enlightened Speedster"] = {
+        ["Speed"] = 0.1,
+        ["Range"] = 0.05,
+        ["Damage"] = 0.05
+    },
+    ["Critical 1"] = {
+        ["Rate"] = 0.05
+    },
+    ["Critical 2"] = {
+        ["Rate"] = 0.15
+    },
+    ["Speedy 3"] = {
+        ["Speed"] = 0.1
+    },
+    ["Vision 3"] = {
+        ["Range"] = 0.125
+    },
+    ["Empower 3"] = {
+        ["Damage"] = 0.15
+    },
+    ["Empowered Crit 2"] = {
+        ["Critical"] = 0.4
+    },
+    ["Bullseye Master"] = {
+        ["Critical"] = 0.6,
+        ["Rate"] = 0.15,
+        ["Range"] = 0.15
+    },
+    ["Element 2"] = {
+        ["Elemental"] = 0.35
+    },
+    ["Matchup Master"] = {
+        ["Penetration"] = 0.25,
+        ["Elemental"] = 0.5,
+        ["Damage"] = 0.15
+    },
+    ["Shatter 2"] = {
+        ["Penetration"] = 0.15,
+        ["Speed"] = 0.1
+    },
+    ["Devastation Mastery"] = {
+        ["Damage"] = 0.65
+    }
+}
+
+Skills["Empower 1"]["Links"] = {
+    Skills["Shatter 1"]
+}
+
+Skills["Speedy 1"]["Links"] = {
+    [2] = Skills["Empowered Crit 1"]
+}
+
+Skills["Vision 1"]["Links"] = {
+    [2] = Skills["Empowered Crit 1"]
+}
+
+Skills["Rich"]["Links"] = {
+    [3] = Skills["Element 1"]
+}
+
+Skills["Element 1"]["Links"] = {
+    [2] = Skills["Speedy 2"],
+    [3] = Skills["Empower 2"]
+}
+
+Skills["Shatter 1"]["Links"] = {
+    Skills["Vision 2"],
+    Skills["Speedy 2"]
+}
+
+Skills["Empowered Crit 1"]["Links"] = {
+    Skills["Vision 2"],
+    Skills["Speedy 2"],
+    Skills["Empower 2"]
+}
+
+Skills["Vision 2"]["Links"] = {
+    Skills["Enlightened Power"],
+    Skills["Enlightened Sight"]
+}
+
+Skills["Speedy 2"]["Links"] = {
+    Skills["Enlightened Power"],
+    Skills["Enlightened Sight"],
+    Skills["Enlightened Speedster"]
+}
+
+Skills["Empower 2"]["Links"] = {
+    [2] = Skills["Enlightened Sight"],
+    [3] = Skills["Enlightened Speedster"]
+}
+
+Skills["Enlightened Power"]["Links"] = {
+    Skills["Critical 1"]
+}
+
+Skills["Enlightened Sight"]["Links"] = {
+    Skills["Critical 1"],
+    Skills["Critical 2"]
+}
+
+Skills["Enlightened Speedster"]["Links"] = {
+    [2] = Skills["Critical 2"]
+}
+
+Skills["Critical 1"]["Links"] = {
+    Skills["Speedy 3"],
+    Skills["Vision 3"]
+}
+
+Skills["Critical 2"]["Links"] = {
+    [2] = Skills["Vision 3"],
+    [3] = Skills["Empower 3"]
+}
+
+Skills["Speedy 3"]["Links"] = {
+    Skills["Empowered Crit 2"],
+    Skills["Element 2"]
+}
+
+Skills["Vision 3"]["Links"] = {
+    Skills["Empowered Crit 2"],
+    Skills["Element 2"],
+    Skills["Shatter 2"]
+}
+
+Skills["Empower 3"]["Links"] = {
+    [2] = Skills["Element 2"],
+    [3] = Skills["Shatter 2"]
+}
+
+Skills["Shatter 2"]["Links"] = {
+    [3] = Skills["Devastation Mastery"]
+}
+
+Skills["Element 2"]["Links"] = {
+    [2] = Skills["Matchup Master"]
+}
+
+Skills["Empowered Crit 2"]["Links"] = {
+    Skills["Bullseye Master"]
+}
+
+local Starters = {
+    Skills["Empower 1"], 
+    Skills["Speedy 1"], 
+    Skills["Vision 1"], 
+    Skills["Rich"]
+}
+
+local Effects = {
+    ["Dismantled"] = {
+        ["Multiplier"] = 2.275,
+        ["Ticks"] = 6,
+        ["Time"] = 6
+    },
+    ["Bleed"] = { 
+        ["Multiplier"] = 1.4,
+        ["Ticks"] = 8,
+        ["Time"] = 6
+    },
+    ["Burn"] = { 
+        ["Multiplier"] = 1.2,
+        ["Ticks"] = 6,
+        ["Time"] = 9
+    },
+    ["Electrified"] = {
+        ["Multiplier"] = 0.35,
+        ["Ticks"] = 3,
+        ["Time"] = 10
+    },
+    ["Black Flames"] = {
+        ["Multiplier"] = 4.8,
+        ["Ticks"] = 20,
+        ["Time"] = 20
+    },
+    ["Conquered"] = {
+        ["Multiplier"] = 2.3,
+        ["Ticks"] = 6,
+        ["Time"] = 10
+    }
+} 
+
+local Calculate = function(Name, Trait, Tree)
+    local Character = Stats[Name]
+    local BaseDamage = Character["Damage"]
+    local Placements = Character["Placements"]
+    local BaseSpeed = Character["SPA"]
+    local Effect = Character["Effect"]
+    local Ability = Character["Ability"]
+    local AnimationLength = Character["Animation"]
+    local Hits = Character["Hits"]
+
+    local CritDamage = 1.5
+    local CritRate = 0
+    local DamageMultiplier = 1
+    local DOTMultiplier = 1
+    local SpeedMultiplier = 1
+    local DOTDuration = 1
+
+    local RangeMultiplier = 0
+    local MoneyMultiplier = 0
+    local Penetration = 0
+    local Elemental = 0 
+
+    if Trait == "Overlord" then 
+        DamageMultiplier += 3.75
+        SpeedMultiplier -= 0.15 
+        RangeMultiplier += 0.05
+        Placements = 1
+    elseif Trait == "Avatar" then 
+        DamageMultiplier += 3.5
+        SpeedMultiplier -= 0.15 
+        DOTMultiplier *= 4
+        RangeMultiplier += 0.1
+        Placements = 1
+    elseif Trait == "Shinigami" then 
+        DamageMultiplier += 0.6
+        SpeedMultiplier -= 0.1
+        RangeMultiplier += 0.1
+    elseif Trait == "Entrepreneur" then 
+        DamageMultiplier += 0.25 
+        SpeedMultiplier -= 0.10
+        RangeMultiplier += 0.05
+        MoneyMultiplier += 0.45
+    elseif Trait == "All Seeing" then 
+        CritRate += 0.3
+        CritDamage += 1
+        RangeMultiplier += 0.75
+    elseif Trait == "Demi God" then 
+        DamageMultiplier += 0.25
+        SpeedMultiplier -= 0.05
+    elseif Trait == "Cosmic" then 
+        DamageMultiplier += 0.15
+        SpeedMultiplier -= 0.15
+        RangeMultiplier += 0.1
+    elseif Trait == "Diamond" then 
+        DamageMultiplier += 0.05
+        MoneyMultiplier += 0.2
+    elseif Trait == "Vulture" then 
+        CritRate += 0.05
+        CritDamage += 0.15
+        RangeMultiplier += 0.25
+    elseif Trait == "Elemental Master" then 
+        DamageMultiplier += 0.05
+        DOTMultiplier = DOTMultiplier / 4 * 3
+        DOTDuration = DOTDuration * 2.5
+    elseif Trait == "Juggernaut" then 
+        DamageMultiplier += 0.125
+        SpeedMultiplier -= 0.025 
+    elseif Trait == "Hyper Speed" then 
+        SpeedMultiplier -= 0.125
+    elseif Trait == "Sturdy" then 
+        DamageMultiplier += 0.1
+    elseif Trait == "Accelerate" then 
+        SpeedMultiplier -= 0.08
+    elseif Trait == "Golden" then 
+        MoneyMultiplier += 0.125
+    elseif Trait == "Eagle Eye" then 
+        RangeMultiplier += 0.15
+    elseif Trait == "Scoped" then 
+        RangeMultiplier += 0.1
+    elseif Trait == "Shining" then 
+        MoneyMultiplier += 0.1
+    elseif Trait == "Glitched" then 
+        DamageMultiplier += 2.75
+        MoneyMultiplier += 0.35
+        RangeMultiplier += 0.35
+        SpeedMultiplier -= 0.125
+        CritRate += 0.35
+        CritDamage += 1.25
+        Placements = 2
+        DOTMultiplier *= 6
+    end 
+
+    local Buffs
+
+    for i,v in next, Tree do
+        if i == 1 then 
+            Buffs = Starters[v]
+        else 
+            Buffs = Buffs["Links"][v]
+        end 
+
+        for i,v in next, Buffs do 
+            if i == "Critical" then 
+                CritDamage += v 
+            elseif i == "Rate" then 
+                CritRate += v 
+            elseif i == "Damage" then 
+                DamageMultiplier += v 
+            elseif i == "Speed" then 
+                SpeedMultiplier -= v
+            elseif i == "Money" then 
+                MoneyMultiplier += v 
+            elseif i == "Range" then 
+                RangeMultiplier += v 
+            elseif i == "Penetration" then 
+                Penetration += v 
+            elseif i == "Elemental" then 
+                Elemental += v
+            end 
+        end 
+    end 
+
+    local SPA = BaseSpeed * SpeedMultiplier
+    local Damage = BaseDamage * DamageMultiplier
+    local Crit = (Damage * (1 - CritRate)) + (Damage * CritDamage * CritRate)
+
+    if AnimationLength then 
+        SPA = math.clamp(SPA, AnimationLength, math.huge)
+    end 
+
+    local DPS = math.round(Crit / SPA)
+
+    if Hits then 
+        DPS *= Hits
+    end 
+
+    local GDPS = DPS * Placements
+
+    local Bonuses = {
+        ["Range"] = RangeMultiplier,
+        ["Money"] = MoneyMultiplier,
+        --["Penetration"] = Penetration,
+        --["Elemental"] = Elemental
+    }
+
+    local Stats = {
+        ["SPA"] = SPA,
+        ["Damage"] = Damage
+    }
+
+    local ADPS = 0
+
+    if Name == "Sukuna (Evo)" then
+        local Total = Damage * 25
+        local DOT = Total * Effects["Burn"]["Multiplier"] * DOTMultiplier
+        ADPS = (Total + DOT) / 300
+    elseif Name == "Saber" then 
+        ADPS = Damage * 7.5 * Placements / 600
+    end 
+
+    if Effect then 
+        for i,v in next, Effect do 
+            v = Effects[v]
+            local Duration = v["Time"] * DOTDuration
+            local TickMultiplier = v["Multiplier"] * DOTMultiplier / Duration
+
+            local Divider = SPA 
+            if Duration > Divider then 
+                repeat
+                    Divider *= 2
+                until Divider >= Duration 
+            end 
+
+            local TimeTagged = Duration / Divider
+            local DOTPS = (Damage * TickMultiplier) * TimeTagged
+
+            DPS += DOTPS
+            GDPS += DOTPS
+        end 
+    end 
+
+    return DPS, GDPS, Bonuses, Stats, ADPS
+end 
+
+local Techniques = {
+    "Overlord", 
+    "Avatar", 
+    "Shinigami", 
+    "Entrepreneur", 
+    "All Seeing",
+    "Elemental Master",
+    "Sturdy",
+    "Accelerate",
+    "Scoped",
+    "Shining",
+    "Eagle Eye",
+    "Golden",
+    "Hyper Speed",
+    "Juggernaut",
+    "Vulture",
+    "Diamond",
+    "Cosmic",
+    "Demi God",
+    "Glitched"
+}
+local Results = {}
+
+function copy(obj)
+    if type(obj) ~= 'table' then return obj end
+    local Response = {}
+    for k, v in pairs(obj) do Response[copy(k)] = copy(v) end
+    return Response
+end
+
+function format(number)
+    local i, j, minus, int, fraction = tostring(number):find('([-]?)(%d+)([.]?%d*)')
+    int = int:reverse():gsub("(%d%d%d)", "%1,")
+    return minus .. int:reverse():gsub("^,", "")
+end
+
+local Handler 
+Handler = function(Skill, Tree, Name, Technique)
+    local DPS, GDPS, Bonuses, Stats, ADPS = Calculate(Name, Technique, Tree)
+    Results[#Results + 1] = {
+        ["Trait"] = Technique,
+        ["DPS"] = DPS,
+        ["GDPS"] = GDPS,
+        ["ADPS"] = ADPS,
+        ["TDPS"] = GDPS + ADPS,
+        ["Bonus"] = Bonuses,
+        ["Name"] = Name,
+        ["Tree"] = Tree,
+        ["Stats"] = Stats
+    }
+
+    local Links = Skill["Links"]
+    if not Links then return end 
+
+    for i,v in next, Links do 
+        local Copy = copy(Tree)
+        Copy[#Copy + 1] = i 
+        Handler(v, Copy, Name, Technique)
+    end 
+end 
+
+for Name, _ in next, Stats do 
+    for a,v in next, Techniques do
+        for i, Starter in next, Starters do
+            Handler(Starter, {i}, Name, v)
+        end 
+    end 
+end 
+
+table.sort(Results, function(a, b)
+    return a["GDPS"] > b["GDPS"]
+end)
+
+local TableToString = function(Table)
+    local Result = ""
+    for i,v in next, Table do 
+        Result = Result..tostring(v)..", "
+    end
+    Result = Result:sub(1, #Result - 2)
+    return Result 
+end 
+
+local find = function(Table, Value)
+    for i,v in next, Table do if v == Value then return i end end 
+end 
+
+local ToString = function(Bonuses)  
+    local Response = ""
+    for i,v in next, Bonuses do 
+        if v == 0 then continue end 
+
+        Response = Response..("+%d%% %s"):format(v * 100, i)..", "
+    end 
+    Response = Response:sub(1, #Response - 2)
+    return Response 
+end 
+
+local List = {}
+local Seen = {}
+for i,v in next, Results do 
+    local Stop = false
+    for i1,v1 in next, Seen do 
+        if v1[2] == v["Name"] and v1[1] == v["Trait"] then 
+            Stop = true 
+        end 
+    end 
+
+    if Stop then continue end
+
+    Seen[#Seen + 1] = {v["Trait"], v["Name"]}
+    List[#List + 1] = v
+end 
+
+print(([[
+Format: Ranking. Technique Name: Group DPS, DPS, Ability DPS | Skill Tree | Bonus Stats (stuff not used in dps calc) | Stats
+
+USE CTRL + F TO FIND YOUR COMBO
+
+Nuke Tree: Vision 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2, Empower 3, Shatter 2, Devastation Mastery
+
+Range/Support Tree: Vision 1, Empowered Crit 1, Vision 2, Enlightened Sight, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master
+
+Effects: [
+   Dismantled: %ds
+   Electrified: %ds
+   Bleed: %ds
+   Burn: %ds
+   Black Flames: %ds
+   Conquered: %ds
+]
+]]):format(Effects["Dismantled"]["Time"], Effects["Electrified"]["Time"], Effects["Bleed"]["Time"], Effects["Burn"]["Time"], Effects["Black Flames"]["Time"], Effects["Conquered"]["Time"]))
+
+for i,v in next, List do
+    local Resolved = {}
+    local Buffs
+    for i,v in next, v["Tree"] do
+        if i == 1 then 
+            Buffs = Starters[v]
+            Resolved[#Resolved + 1] = find(Skills, Buffs)
+            continue 
+        end 
+
+        Buffs = Buffs["Links"][v]
+        Resolved[#Resolved + 1] = find(Skills, Buffs)
+    end 
+    
+    local Output = ("%d. %s %s: %s GDPS, %s DPS"):format(i, v["Trait"], v["Name"], format(math.round(v["GDPS"])), format(math.round(v["DPS"])))
+    
+    if v["ADPS"] ~= 0 then 
+        Output = Output..(", %s ADPS"):format(format(math.round(v["ADPS"])))
+    end 
+    
+    Output = Output..(" | %s"):format(TableToString(Resolved))
+    
+    local Bonuses = ToString(v["Bonus"])
+    if #Bonuses > 5 then 
+        Output = Output..(" | Bonuses: %s"):format(Bonuses)
+    end 
+    
+    local Stats = v["Stats"]
+    if Stats then 
+        local SPA = Stats["SPA"]
+        local Formatted
+
+        if SPA == math.floor(SPA) then
+            Formatted = string.format("%.0f", SPA)
+        else
+            local Decimals = tostring(SPA):match('%.(%d+)') or ''
+            if tonumber(Decimals) > 0 then
+                Formatted = string.format("%.2f", SPA)
+            else
+                Formatted = string.format("%.1f", SPA)
+            end
+        end
+
+        Output = Output..(" | Damage: %d, SPA: %s"):format(Stats["Damage"], Formatted)
+    end 
+
+    print(Output.."\n")
+end 
