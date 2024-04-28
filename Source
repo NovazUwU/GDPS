@@ -682,7 +682,7 @@ local Effects = {
     ["Burn"] = { 
         ["Multiplier"] = 1.2,
         ["Ticks"] = 8,
-        ["Time"] = 6
+        ["Time"] = 7.1
     },
     ["Electrified"] = {
         ["Multiplier"] = 0.35,
@@ -880,9 +880,6 @@ local Calculate = function(Name, Trait, Tree)
             end 
 
             local TimeTagged = Duration / Divider
-            if n == "Burn" and SPA < Duration then 
-                TimeTagged = 1
-            end 
             local DOTPS = (Damage * TickMultiplier) * TimeTagged
 
             DPS += DOTPS
