@@ -1,5 +1,4 @@
 made by @cloneref
-range now included at a 4:1 ratio (gdps wont change skill tree will)
 
 Format: Ranking. Technique Name: Group DPS, DPS, Ability DPS | Skill Tree | Bonus Stats (stuff not used in dps calc) | Stats
 
@@ -60,9 +59,9 @@ Effects: [
 
 20. Glitched Kizaru (War): 1,961,456 GDPS, 980,728 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 721050, SPA: 5.72
 
-21. Glitched Albedo: 2,038,914 GDPS, 1,019,457 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +40% Range, +35% Money | Damage: 609157, SPA: 3.63
+21. Glitched Toji: 2,043,156 GDPS, 1,021,578 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +40% Range, +35% Money | Damage: 417252, SPA: 4.23
 
-22. Glitched Toji: 2,024,683 GDPS, 1,012,341 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +40% Range, +35% Money | Damage: 417252, SPA: 4.23
+22. Glitched Albedo: 2,038,914 GDPS, 1,019,457 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +40% Range, +35% Money | Damage: 609157, SPA: 3.63
 
 23. Overlord Saitama (Serious): 1,957,657 GDPS, 1,957,657 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 6709190, SPA: 5.17
 
@@ -114,9 +113,9 @@ Effects: [
 
 47. Overlord Smoker (Hunter): 1,418,350 GDPS, 1,418,350 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 777744, SPA: 4.14
 
-48. Golden Smoker (Hunter): 1,503,220 GDPS, 375,805 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 306236, SPA: 4.38
+48. Shining Smoker (Hunter): 1,503,220 GDPS, 375,805 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 306236, SPA: 4.38
 
-49. Shining Smoker (Hunter): 1,503,220 GDPS, 375,805 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 306236, SPA: 4.38
+49. Golden Smoker (Hunter): 1,503,220 GDPS, 375,805 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 306236, SPA: 4.38
 
 50. Glitched The Squad: 1,296,577 GDPS, 747,156 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 1615779, SPA: 8.58
 
@@ -246,9 +245,9 @@ Effects: [
 
 113. Shinigami Garp (Canon): 981,475 GDPS, 327,158 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 718987, SPA: 3.78
 
-114. Shining Boros: 997,125 GDPS, 332,375 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 1918501, SPA: 6.21
+114. Golden Boros: 997,125 GDPS, 332,375 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 1918501, SPA: 6.21
 
-115. Golden Boros: 997,125 GDPS, 332,375 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 1918501, SPA: 6.21
+115. Shining Boros: 997,125 GDPS, 332,375 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 1918501, SPA: 6.21
 
 116. All Seeing Ichigo (Mask): 828,818 GDPS, 276,273 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 289987, SPA: 4.44
 
@@ -270,9 +269,9 @@ Effects: [
 
 125. Accelerate Shanks: 957,930 GDPS, 319,310 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 614968, SPA: 6.50
 
-126. Elemental Master SSJ Vegito: 955,776 GDPS, 318,592 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 1514425, SPA: 5.11
+126. Diamond SSJ Vegito: 955,776 GDPS, 318,592 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 1514425, SPA: 5.11
 
-127. Diamond SSJ Vegito: 955,776 GDPS, 318,592 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 1514425, SPA: 5.11
+127. Elemental Master SSJ Vegito: 955,776 GDPS, 318,592 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 1514425, SPA: 5.11
 
 128. Scoped SSJ Vegito: 931,143 GDPS, 310,381 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 1475393, SPA: 5.11
 
@@ -286,9 +285,9 @@ Effects: [
 
 133. Entrepreneur Kizaru (War): 923,851 GDPS, 230,963 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 406065, SPA: 5.04
 
-134. Golden SSJ Vegito: 931,143 GDPS, 310,381 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 1475393, SPA: 5.11
+134. Shining SSJ Vegito: 931,143 GDPS, 310,381 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 1475393, SPA: 5.11
 
-135. Shining SSJ Vegito: 931,143 GDPS, 310,381 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 1475393, SPA: 5.11
+135. Golden SSJ Vegito: 931,143 GDPS, 310,381 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 1475393, SPA: 5.11
 
 136. Shining Sengoku (War): 929,264 GDPS, 309,755 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 670477, SPA: 6.21
 
@@ -336,19 +335,19 @@ Effects: [
 
 158. Entrepreneur Garp (Canon): 843,518 GDPS, 281,173 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 617925, SPA: 3.78
 
-159. Golden Shanks: 852,951 GDPS, 284,317 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 614968, SPA: 7.30
+159. Shining Shanks: 852,951 GDPS, 284,317 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 614968, SPA: 7.30
 
-160. Shining Shanks: 852,951 GDPS, 284,317 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 614968, SPA: 7.30
+160. Golden Shanks: 852,951 GDPS, 284,317 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 614968, SPA: 7.30
 
 161. Hyper Speed Kizaru (War): 849,643 GDPS, 212,411 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 358627, SPA: 4.84
 
 162. Avatar Garp (Canon): 766,707 GDPS, 766,707 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 1313812, SPA: 4.14
 
-163. Overlord Shenron (Shiny): 761,966 GDPS, 761,966 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 2785464, SPA: 5.52
+163. Avatar Toji: 780,944 GDPS, 780,944 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +27% Range | Damage: 471207, SPA: 4.06
 
-164. Entrepreneur Jotaro (OH): 810,580 GDPS, 202,645 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 712555, SPA: 3.78
+164. Overlord Shenron (Shiny): 761,966 GDPS, 761,966 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 2785464, SPA: 5.52
 
-165. Avatar Toji: 774,706 GDPS, 774,706 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +27% Range | Damage: 471207, SPA: 4.06
+165. Entrepreneur Jotaro (OH): 810,580 GDPS, 202,645 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 712555, SPA: 3.78
 
 166. Shinigami Saitama (Serious): 791,835 GDPS, 791,835 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 3480392, SPA: 4.72
 
@@ -414,9 +413,9 @@ Effects: [
 
 197. Glitched Aokiji (War): 629,372 GDPS, 314,686 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 771210, SPA: 7.15
 
-198. Diamond Kizaru (War): 722,784 GDPS, 180,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 368115, SPA: 5.84
+198. Elemental Master Kizaru (War): 722,784 GDPS, 180,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 368115, SPA: 5.84
 
-199. Elemental Master Kizaru (War): 722,784 GDPS, 180,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 368115, SPA: 5.84
+199. Diamond Kizaru (War): 722,784 GDPS, 180,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 368115, SPA: 5.84
 
 200. Juggernaut Metal Knight: 722,460 GDPS, 180,615 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 888373, SPA: 5.29
 
@@ -436,9 +435,9 @@ Effects: [
 
 208. Cosmic Itachi (Edo): 687,919 GDPS, 343,959 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 516681, SPA: 5.22
 
-209. Golden Kizaru (War): 704,149 GDPS, 176,037 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 358627, SPA: 5.84
+209. Shining Kizaru (War): 704,149 GDPS, 176,037 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 358627, SPA: 5.84
 
-210. Shining Kizaru (War): 704,149 GDPS, 176,037 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 358627, SPA: 5.84
+210. Golden Kizaru (War): 704,149 GDPS, 176,037 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 358627, SPA: 5.84
 
 211. All Seeing Itachi (Edo): 593,808 GDPS, 296,904 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 478689, SPA: 6.57
 
@@ -486,9 +485,9 @@ Effects: [
 
 233. All Seeing Arrancar: 556,970 GDPS, 111,394 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 140109, SPA: 2.22
 
-234. Elemental Master Garp (Canon): 659,933 GDPS, 219,978 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 560175, SPA: 4.38
+234. Diamond Garp (Canon): 659,933 GDPS, 219,978 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 560175, SPA: 4.38
 
-235. Diamond Garp (Canon): 659,933 GDPS, 219,978 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 560175, SPA: 4.38
+235. Elemental Master Garp (Canon): 659,933 GDPS, 219,978 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 560175, SPA: 4.38
 
 236. Scoped Garp (Canon): 642,922 GDPS, 214,307 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 545737, SPA: 4.38
 
@@ -502,9 +501,9 @@ Effects: [
 
 241. Glitched SSJ3 Goku: 560,692 GDPS, 280,346 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 618347, SPA: 6.43
 
-242. Golden Garp (Canon): 642,922 GDPS, 214,307 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 545737, SPA: 4.38
+242. Shining Garp (Canon): 642,922 GDPS, 214,307 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 545737, SPA: 4.38
 
-243. Shining Garp (Canon): 642,922 GDPS, 214,307 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 545737, SPA: 4.38
+243. Golden Garp (Canon): 642,922 GDPS, 214,307 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 545737, SPA: 4.38
 
 244. Glitched Android 21: 555,462 GDPS, 277,731 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 612579, SPA: 6.43
 
@@ -522,9 +521,9 @@ Effects: [
 
 251. Glitched Garp: 550,758 GDPS, 275,379 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 371184, SPA: 3.93
 
-252. Diamond Jotaro (OH): 634,164 GDPS, 158,541 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 645961, SPA: 4.38
+252. Elemental Master Jotaro (OH): 634,164 GDPS, 158,541 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 645961, SPA: 4.38
 
-253. Elemental Master Jotaro (OH): 634,164 GDPS, 158,541 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 645961, SPA: 4.38
+253. Diamond Jotaro (OH): 634,164 GDPS, 158,541 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 645961, SPA: 4.38
 
 254. Shinigami Akainu (War): 617,943 GDPS, 308,972 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 505345, SPA: 5.67
 
@@ -658,9 +657,9 @@ Effects: [
 
 319. Demi God Roy (Fire Pillar): 508,345 GDPS, 127,086 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +7% Range | Damage: 103546, SPA: 3.55
 
-320. Shining Itachi (Edo): 506,376 GDPS, 253,188 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 478689, SPA: 6.57
+320. Golden Itachi (Edo): 506,376 GDPS, 253,188 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 478689, SPA: 6.57
 
-321. Golden Itachi (Edo): 506,376 GDPS, 253,188 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 478689, SPA: 6.57
+321. Shining Itachi (Edo): 506,376 GDPS, 253,188 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 478689, SPA: 6.57
 
 322. Cosmic Genos (Evo): 494,093 GDPS, 247,046 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 598811, SPA: 4.06
 
@@ -858,17 +857,17 @@ Effects: [
 
 419. Accelerate Android 21 (Super): 407,328 GDPS, 101,832 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 554157, SPA: 5.85
 
-420. Diamond Yuta: 406,989 GDPS, 135,663 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 921247, SPA: 7.30
+420. Elemental Master Yuta: 406,989 GDPS, 135,663 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 921247, SPA: 7.30
 
-421. Elemental Master Yuta: 406,989 GDPS, 135,663 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 921247, SPA: 7.30
+421. Diamond Yuta: 406,989 GDPS, 135,663 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 921247, SPA: 7.30
 
 422. Overlord SSJ Gohan: 376,325 GDPS, 376,325 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 1375704, SPA: 5.52
 
 423. Scoped Yuta: 396,501 GDPS, 132,167 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 897504, SPA: 7.30
 
-424. Diamond Tatsumaki: 405,387 GDPS, 135,129 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 275286, SPA: 2.19
+424. Elemental Master Tatsumaki: 405,387 GDPS, 135,129 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 275286, SPA: 2.19
 
-425. Elemental Master Tatsumaki: 405,387 GDPS, 135,129 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 275286, SPA: 2.19
+425. Diamond Tatsumaki: 405,387 GDPS, 135,129 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 275286, SPA: 2.19
 
 426. Vulture Mash: 381,292 GDPS, 95,323 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 492641, SPA: 5.84
 
@@ -900,15 +899,15 @@ Effects: [
 
 440. Entrepreneur SSJ Gohan: 392,460 GDPS, 130,820 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 613334, SPA: 5.04
 
-441. Golden Yuta: 396,501 GDPS, 132,167 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 897504, SPA: 7.30
+441. Shining Yuta: 396,501 GDPS, 132,167 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 897504, SPA: 7.30
 
-442. Shining Yuta: 396,501 GDPS, 132,167 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 897504, SPA: 7.30
+442. Golden Yuta: 396,501 GDPS, 132,167 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 897504, SPA: 7.30
 
 443. Elemental Master Roy (Fire Pillar): 394,946 GDPS, 98,737 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 95657, SPA: 3.65
 
-444. Shining Tatsumaki: 394,938 GDPS, 131,646 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 268191, SPA: 2.19
+444. Golden Tatsumaki: 394,938 GDPS, 131,646 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 268191, SPA: 2.19
 
-445. Golden Tatsumaki: 394,938 GDPS, 131,646 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 268191, SPA: 2.19
+445. Shining Tatsumaki: 394,938 GDPS, 131,646 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 268191, SPA: 2.19
 
 446. Accelerate Arrancar: 394,550 GDPS, 78,910 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 143139, SPA: 1.95
 
@@ -952,9 +951,9 @@ Effects: [
 
 466. Glitched Smoker: 328,408 GDPS, 164,204 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 221331, SPA: 3.93
 
-467. Shining Majin Vegeta: 377,460 GDPS, 94,365 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 448565, SPA: 5.11
+467. Golden Majin Vegeta: 377,460 GDPS, 94,365 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 448565, SPA: 5.11
 
-468. Golden Majin Vegeta: 377,460 GDPS, 94,365 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 448565, SPA: 5.11
+468. Shining Majin Vegeta: 377,460 GDPS, 94,365 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 448565, SPA: 5.11
 
 469. Overlord Sukuna (Evo): 361,634 GDPS, 361,634 DPS, 95,591 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range | Damage: 521407, SPA: 3.19
 
@@ -978,9 +977,9 @@ Effects: [
 
 479. Diamond Mash: 372,328 GDPS, 93,082 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 505674, SPA: 5.84
 
-480. Elemental Master Android 21 (Super): 372,284 GDPS, 93,071 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 568817, SPA: 6.57
+480. Diamond Android 21 (Super): 372,284 GDPS, 93,071 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 568817, SPA: 6.57
 
-481. Diamond Android 21 (Super): 372,284 GDPS, 93,071 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 568817, SPA: 6.57
+481. Elemental Master Android 21 (Super): 372,284 GDPS, 93,071 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 568817, SPA: 6.57
 
 482. Scoped Mash: 362,732 GDPS, 90,683 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 492641, SPA: 5.84
 
@@ -1014,9 +1013,9 @@ Effects: [
 
 497. Cosmic Roy: 354,945 GDPS, 88,736 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 215087, SPA: 4.06
 
-498. Shining Genos (Evo): 363,701 GDPS, 181,851 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 554781, SPA: 5.11
+498. Golden Genos (Evo): 363,701 GDPS, 181,851 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 554781, SPA: 5.11
 
-499. Golden Genos (Evo): 363,701 GDPS, 181,851 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 554781, SPA: 5.11
+499. Shining Genos (Evo): 363,701 GDPS, 181,851 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 554781, SPA: 5.11
 
 500. Demi God SSJ Gohan: 363,603 GDPS, 121,201 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 613334, SPA: 5.44
 
@@ -1032,9 +1031,9 @@ Effects: [
 
 506. Hyper Speed SSJ Gohan: 360,936 GDPS, 120,312 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 541683, SPA: 4.84
 
-507. Diamond Arrancar: 360,605 GDPS, 72,121 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 146925, SPA: 2.19
+507. Elemental Master Arrancar: 360,605 GDPS, 72,121 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 146925, SPA: 2.19
 
-508. Elemental Master Arrancar: 360,605 GDPS, 72,121 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 146925, SPA: 2.19
+508. Diamond Arrancar: 360,605 GDPS, 72,121 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 146925, SPA: 2.19
 
 509. Scoped Arrancar: 351,310 GDPS, 70,262 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 143139, SPA: 2.19
 
@@ -1046,9 +1045,9 @@ Effects: [
 
 513. Shinigami Yuta (Electrified): 343,736 GDPS, 120,632 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 457622, SPA: 4.41
 
-514. Golden Arrancar: 351,310 GDPS, 70,262 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 143139, SPA: 2.19
+514. Shining Arrancar: 351,310 GDPS, 70,262 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 143139, SPA: 2.19
 
-515. Shining Arrancar: 351,310 GDPS, 70,262 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 143139, SPA: 2.19
+515. Golden Arrancar: 351,310 GDPS, 70,262 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 143139, SPA: 2.19
 
 516. Glitched Yami: 301,894 GDPS, 150,947 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 184965, SPA: 3.57
 
@@ -1086,23 +1085,23 @@ Effects: [
 
 533. Shinigami Guts: 308,122 GDPS, 154,061 DPS | Vision 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range | Damage: 369007, SPA: 6
 
-534. Glitched Ghiaccio: 277,706 GDPS, 138,853 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 374319, SPA: 7.86
+534. Overlord Toji: 307,491 GDPS, 307,491 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range | Damage: 493688, SPA: 4.06
 
-535. Overlord Yuta (Electrified): 294,526 GDPS, 294,526 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 893190, SPA: 5.11
+535. Glitched Ghiaccio: 277,706 GDPS, 138,853 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 374319, SPA: 7.86
 
-536. Sturdy Albedo: 317,622 GDPS, 105,874 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 261254, SPA: 4.38
+536. Overlord Yuta (Electrified): 294,526 GDPS, 294,526 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 893190, SPA: 5.11
 
-537. Demi God Roy: 317,591 GDPS, 79,398 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 225630, SPA: 4.76
+537. Sturdy Albedo: 317,622 GDPS, 105,874 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 261254, SPA: 4.38
 
-538. Shinigami Shenron (Shiny): 308,201 GDPS, 308,201 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 1444959, SPA: 5.04
+538. Demi God Roy: 317,591 GDPS, 79,398 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 225630, SPA: 4.76
 
-539. Hyper Speed Roy: 315,261 GDPS, 78,815 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 199272, SPA: 4.23
+539. Shinigami Shenron (Shiny): 308,201 GDPS, 308,201 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 1444959, SPA: 5.04
 
-540. Sturdy SSJ Gohan: 314,958 GDPS, 104,986 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 570343, SPA: 5.84
+540. Hyper Speed Roy: 315,261 GDPS, 78,815 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 199272, SPA: 4.23
 
-541. Entrepreneur Saber: 310,596 GDPS, 77,649 DPS, 18,202 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 364046, SPA: 5.04
+541. Sturdy SSJ Gohan: 314,958 GDPS, 104,986 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 570343, SPA: 5.84
 
-542. Overlord Toji: 300,955 GDPS, 300,955 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range | Damage: 493688, SPA: 4.06
+542. Entrepreneur Saber: 310,596 GDPS, 77,649 DPS, 18,202 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 364046, SPA: 5.04
 
 543. Cosmic Yuta (Electrified): 305,890 GDPS, 107,350 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 374919, SPA: 4.06
 
@@ -1130,9 +1129,9 @@ Effects: [
 
 555. Hyper Speed Akeno: 307,085 GDPS, 112,899 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 491787, SPA: 5.45
 
-556. Diamond SSJ Gohan: 307,044 GDPS, 102,348 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 556013, SPA: 5.84
+556. Elemental Master SSJ Gohan: 307,044 GDPS, 102,348 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 556013, SPA: 5.84
 
-557. Elemental Master SSJ Gohan: 307,044 GDPS, 102,348 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 556013, SPA: 5.84
+557. Diamond SSJ Gohan: 307,044 GDPS, 102,348 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 556013, SPA: 5.84
 
 558. Cosmic Kurama: 299,458 GDPS, 299,458 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 3231360, SPA: 11.60
 
@@ -1156,9 +1155,9 @@ Effects: [
 
 568. Cosmic Sengoku: 291,972 GDPS, 97,324 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 393822, SPA: 4.35
 
-569. Shining SSJ Gohan: 299,133 GDPS, 99,711 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 541683, SPA: 5.84
+569. Golden SSJ Gohan: 299,133 GDPS, 99,711 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 541683, SPA: 5.84
 
-570. Golden SSJ Gohan: 299,133 GDPS, 99,711 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 541683, SPA: 5.84
+570. Shining SSJ Gohan: 299,133 GDPS, 99,711 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 541683, SPA: 5.84
 
 571. Entrepreneur Yuta (Electrified): 295,420 GDPS, 103,676 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 393297, SPA: 4.41
 
@@ -1286,31 +1285,31 @@ Effects: [
 
 633. Eagle Eye Akeno: 254,503 GDPS, 93,567 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 491787, SPA: 6.57
 
-634. Shinigami Yamamoto: 256,589 GDPS, 85,530 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 193017, SPA: 3.78
+634. Shinigami Toji: 256,789 GDPS, 128,395 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 223913, SPA: 4.41
 
-635. Glitched Shenron: 226,676 GDPS, 113,338 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 166656, SPA: 4.29
+635. Shinigami Yamamoto: 256,589 GDPS, 85,530 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 193017, SPA: 3.78
 
-636. Juggernaut Saber: 261,340 GDPS, 65,335 DPS, 17,139 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 342781, SPA: 5.64
+636. Glitched Shenron: 226,676 GDPS, 113,338 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 166656, SPA: 4.29
 
-637. Accelerate Rias: 261,316 GDPS, 65,329 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 355509, SPA: 5.85
+637. Juggernaut Saber: 261,340 GDPS, 65,335 DPS, 17,139 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 342781, SPA: 5.64
 
-638. Golden Roy: 261,276 GDPS, 65,319 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 199272, SPA: 5.11
+638. Accelerate Rias: 261,316 GDPS, 65,329 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 355509, SPA: 5.85
 
 639. Shining Roy: 261,276 GDPS, 65,319 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 199272, SPA: 5.11
 
-640. Demi God Sengoku: 261,243 GDPS, 87,081 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 413127, SPA: 5.10
+640. Golden Roy: 261,276 GDPS, 65,319 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 199272, SPA: 5.11
 
-641. Diamond Akeno: 261,234 GDPS, 96,042 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 504797, SPA: 6.57
+641. Demi God Sengoku: 261,243 GDPS, 87,081 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 413127, SPA: 5.10
 
-642. Scoped Akeno: 254,503 GDPS, 93,567 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 491787, SPA: 6.57
+642. Diamond Akeno: 261,234 GDPS, 96,042 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 504797, SPA: 6.57
 
-643. Vulture Rias: 244,580 GDPS, 61,145 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 355509, SPA: 6.57
+643. Scoped Akeno: 254,503 GDPS, 93,567 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 491787, SPA: 6.57
 
-644. Hyper Speed Sengoku: 259,326 GDPS, 86,442 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 364864, SPA: 4.54
+644. Vulture Rias: 244,580 GDPS, 61,145 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 355509, SPA: 6.57
 
-645. Glitched Genos: 223,862 GDPS, 111,931 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 219450, SPA: 5.72
+645. Hyper Speed Sengoku: 259,326 GDPS, 86,442 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 364864, SPA: 4.54
 
-646. Shinigami Toji: 251,331 GDPS, 125,666 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 223913, SPA: 4.41
+646. Glitched Genos: 223,862 GDPS, 111,931 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 219450, SPA: 5.72
 
 647. Vulture Yuta (Electrified): 242,332 GDPS, 88,708 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 347351, SPA: 5.11
 
@@ -1318,9 +1317,9 @@ Effects: [
 
 649. Entrepreneur Vash: 253,056 GDPS, 42,176 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 173019, SPA: 4.41
 
-650. Shining Akeno: 254,503 GDPS, 93,567 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 491787, SPA: 6.57
+650. Golden Akeno: 254,503 GDPS, 93,567 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 491787, SPA: 6.57
 
-651. Golden Akeno: 254,503 GDPS, 93,567 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 491787, SPA: 6.57
+651. Shining Akeno: 254,503 GDPS, 93,567 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 491787, SPA: 6.57
 
 652. Juggernaut Yuta (Electrified): 253,102 GDPS, 92,828 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 362973, SPA: 5.00
 
@@ -1334,45 +1333,45 @@ Effects: [
 
 657. Overlord Roy: 238,807 GDPS, 238,807 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range | Damage: 578838, SPA: 4.06
 
-658. All Seeing Drip Nami (Evo): 210,059 GDPS, 36,444 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 94627, SPA: 4.81
+658. All Seeing Toji: 210,119 GDPS, 105,059 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 169958, SPA: 5.11
 
-659. Juggernaut Guts: 248,157 GDPS, 124,078 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 299175, SPA: 6.04
+659. All Seeing Drip Nami (Evo): 210,059 GDPS, 36,444 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 94627, SPA: 4.81
 
-660. Accelerate Kurama: 247,561 GDPS, 247,561 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 2993760, SPA: 13
+660. Juggernaut Guts: 248,157 GDPS, 124,078 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 299175, SPA: 6.04
 
-661. All Seeing Natsu: 208,640 GDPS, 52,160 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 97924, SPA: 4.44
+661. Accelerate Kurama: 247,561 GDPS, 247,561 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 2993760, SPA: 13
 
-662. Accelerate Vegito: 246,594 GDPS, 123,297 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 708242, SPA: 6.17
+662. All Seeing Natsu: 208,640 GDPS, 52,160 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 97924, SPA: 4.44
 
-663. Vulture Kurama: 231,709 GDPS, 231,709 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 2993760, SPA: 14.60
+663. Accelerate Vegito: 246,594 GDPS, 123,297 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 708242, SPA: 6.17
 
-664. Vulture Guts: 231,299 GDPS, 115,650 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 280798, SPA: 6.24
+664. Vulture Kurama: 231,709 GDPS, 231,709 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 2993760, SPA: 14.60
 
-665. Eagle Eye Saber: 236,732 GDPS, 59,183 DPS, 16,076 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 321517, SPA: 5.84
+665. Vulture Guts: 231,299 GDPS, 115,650 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 280798, SPA: 6.24
 
-666. Demi God Shenron (Shiny): 245,403 GDPS, 245,403 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 1241852, SPA: 5.44
+666. Eagle Eye Saber: 236,732 GDPS, 59,183 DPS, 16,076 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 321517, SPA: 5.84
 
-667. Vulture Vegito: 230,804 GDPS, 115,402 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 708242, SPA: 6.93
+667. Demi God Shenron (Shiny): 245,403 GDPS, 245,403 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 1241852, SPA: 5.44
 
-668. Sturdy Rias: 244,988 GDPS, 61,247 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 374319, SPA: 6.57
+668. Vulture Vegito: 230,804 GDPS, 115,402 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 708242, SPA: 6.93
 
-669. Hyper Speed Shenron (Shiny): 243,602 GDPS, 243,602 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 1096776, SPA: 4.84
+669. Sturdy Rias: 244,988 GDPS, 61,247 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 374319, SPA: 6.57
 
-670. Shinigami Jotaro: 237,657 GDPS, 79,219 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 278556, SPA: 3.78
+670. Hyper Speed Shenron (Shiny): 243,602 GDPS, 243,602 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 1096776, SPA: 4.84
 
-671. Cosmic Guts: 226,721 GDPS, 113,361 DPS | Vision 1, Empowered Crit 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +35% Range | Damage: 279328, SPA: 6
+671. Shinigami Jotaro: 237,657 GDPS, 79,219 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 278556, SPA: 3.78
 
-672. Juggernaut Kurama: 243,343 GDPS, 243,343 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 3191760, SPA: 14.10
+672. Cosmic Guts: 226,721 GDPS, 113,361 DPS | Vision 1, Empowered Crit 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +35% Range | Damage: 279328, SPA: 6
 
-673. Sturdy Yuta (Electrified): 243,342 GDPS, 89,464 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 365730, SPA: 5.11
+673. Juggernaut Kurama: 243,343 GDPS, 243,343 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 3191760, SPA: 14.10
 
-674. Elemental Master Saber: 242,996 GDPS, 60,749 DPS, 16,501 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 330023, SPA: 5.84
+674. Sturdy Yuta (Electrified): 243,342 GDPS, 89,464 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 365730, SPA: 5.11
 
 675. Diamond Saber: 242,996 GDPS, 60,749 DPS, 16,501 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 330023, SPA: 5.84
 
-676. Scoped Saber: 236,732 GDPS, 59,183 DPS, 16,076 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 321517, SPA: 5.84
+676. Elemental Master Saber: 242,996 GDPS, 60,749 DPS, 16,501 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 330023, SPA: 5.84
 
-677. All Seeing Toji: 204,548 GDPS, 102,274 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 169958, SPA: 5.11
+677. Scoped Saber: 236,732 GDPS, 59,183 DPS, 16,076 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 321517, SPA: 5.84
 
 678. Juggernaut Vegito: 242,394 GDPS, 121,197 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 755083, SPA: 6.70
 
@@ -1398,9 +1397,9 @@ Effects: [
 
 689. All Seeing Garou: 201,840 GDPS, 50,460 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 126935, SPA: 4.44
 
-690. Diamond Rias: 238,832 GDPS, 59,708 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 364914, SPA: 6.57
+690. Elemental Master Rias: 238,832 GDPS, 59,708 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 364914, SPA: 6.57
 
-691. Elemental Master Rias: 238,832 GDPS, 59,708 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 364914, SPA: 6.57
+691. Diamond Rias: 238,832 GDPS, 59,708 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 364914, SPA: 6.57
 
 692. Scoped Rias: 232,676 GDPS, 58,169 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 355509, SPA: 6.57
 
@@ -1426,49 +1425,49 @@ Effects: [
 
 703. Demi God Vash: 234,450 GDPS, 39,075 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 173019, SPA: 4.76
 
-704. Shinigami Android 21: 228,309 GDPS, 76,103 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 401400, SPA: 5.67
+704. Cosmic Toji: 228,518 GDPS, 114,259 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 183447, SPA: 4.06
 
-705. Eagle Eye Guts: 225,449 GDPS, 112,725 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 280798, SPA: 6.24
+705. Shinigami Android 21: 228,309 GDPS, 76,103 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 401400, SPA: 5.67
 
-706. Shinigami Silver Fang: 227,973 GDPS, 75,991 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 178136, SPA: 2.52
+706. Eagle Eye Guts: 225,449 GDPS, 112,725 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 280798, SPA: 6.24
 
-707. Elemental Master Albedo: 233,322 GDPS, 77,774 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 254690, SPA: 4.38
+707. Shinigami Silver Fang: 227,973 GDPS, 75,991 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 178136, SPA: 2.52
 
-708. Glitched SSJ4 Gogeta: 202,014 GDPS, 101,007 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 123769, SPA: 3.57
+708. Elemental Master Albedo: 233,322 GDPS, 77,774 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 254690, SPA: 4.38
 
-709. Hyper Speed Vash: 232,728 GDPS, 38,788 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 152806, SPA: 4.23
+709. Glitched SSJ4 Gogeta: 202,014 GDPS, 101,007 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 123769, SPA: 3.57
 
-710. Golden Rias: 232,676 GDPS, 58,169 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 355509, SPA: 6.57
+710. Hyper Speed Vash: 232,728 GDPS, 38,788 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 152806, SPA: 4.23
 
-711. Shining Rias: 232,676 GDPS, 58,169 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 355509, SPA: 6.57
+711. Golden Rias: 232,676 GDPS, 58,169 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 355509, SPA: 6.57
 
-712. Sturdy Kurama: 232,094 GDPS, 232,094 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 3152160, SPA: 14.60
+712. Shining Rias: 232,676 GDPS, 58,169 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 355509, SPA: 6.57
 
-713. Shinigami Garp: 226,377 GDPS, 75,459 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 243223, SPA: 3.46
+713. Sturdy Kurama: 232,094 GDPS, 232,094 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 3152160, SPA: 14.60
 
-714. Diamond Guts: 230,170 GDPS, 115,085 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +7% Range, +20% Money | Damage: 279328, SPA: 6.08
+714. Shinigami Garp: 226,377 GDPS, 75,459 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 243223, SPA: 3.46
 
-715. Avatar Saber: 211,735 GDPS, 211,735 DPS, 9,675 ADPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 774023, SPA: 5.52
+715. Diamond Guts: 230,170 GDPS, 115,085 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +7% Range, +20% Money | Damage: 279328, SPA: 6.08
 
-716. Sturdy Vegito: 231,188 GDPS, 115,594 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 745715, SPA: 6.93
+716. Avatar Saber: 211,735 GDPS, 211,735 DPS, 9,675 ADPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 774023, SPA: 5.52
 
-717. Golden Yuta (Electrified): 231,115 GDPS, 84,969 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 347351, SPA: 5.11
+717. Sturdy Vegito: 231,188 GDPS, 115,594 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 745715, SPA: 6.93
 
 718. Shining Yuta (Electrified): 231,115 GDPS, 84,969 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 347351, SPA: 5.11
 
-719. All Seeing Saitama: 194,976 GDPS, 97,488 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 326983, SPA: 5.92
+719. Golden Yuta (Electrified): 231,115 GDPS, 84,969 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 347351, SPA: 5.11
 
-720. Scoped Guts: 224,113 GDPS, 112,056 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +17% Range | Damage: 271977, SPA: 6.08
+720. All Seeing Saitama: 194,976 GDPS, 97,488 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 326983, SPA: 5.92
 
-721. Avatar Sukuna: 218,542 GDPS, 218,542 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +27% Range | Damage: 196264, SPA: 3.48
+721. Scoped Guts: 224,113 GDPS, 112,056 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +17% Range | Damage: 271977, SPA: 6.08
 
-722. Glitched Sanemi: 212,179 GDPS, 106,090 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +40% Range, +35% Money | Damage: 63391, SPA: 3.63
+722. Avatar Sukuna: 218,542 GDPS, 218,542 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +27% Range | Damage: 196264, SPA: 3.48
 
-723. All Seeing Shanks (Young): 188,474 GDPS, 47,119 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +95% Range | Damage: 94710, SPA: 6.02
+723. Glitched Sanemi: 212,179 GDPS, 106,090 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +40% Range, +35% Money | Damage: 63391, SPA: 3.63
 
-724. Overlord Aokiji (War): 213,186 GDPS, 213,186 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 974160, SPA: 6.90
+724. All Seeing Shanks (Young): 188,474 GDPS, 47,119 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +95% Range | Damage: 94710, SPA: 6.02
 
-725. Cosmic Toji: 223,661 GDPS, 111,831 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 183447, SPA: 4.06
+725. Overlord Aokiji (War): 213,186 GDPS, 213,186 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 974160, SPA: 6.90
 
 726. Eagle Eye Kurama: 220,431 GDPS, 220,431 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 2993760, SPA: 14.60
 
@@ -1486,15 +1485,15 @@ Effects: [
 
 733. Sturdy Sengoku: 226,293 GDPS, 75,431 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 384169, SPA: 5.47
 
-734. Diamond Kurama: 226,262 GDPS, 226,262 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 3072960, SPA: 14.60
+734. Elemental Master Kurama: 226,262 GDPS, 226,262 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 3072960, SPA: 14.60
 
-735. Elemental Master Kurama: 226,262 GDPS, 226,262 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 3072960, SPA: 14.60
+735. Diamond Kurama: 226,262 GDPS, 226,262 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 3072960, SPA: 14.60
 
 736. Scoped Kurama: 220,431 GDPS, 220,431 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 2993760, SPA: 14.60
 
-737. Golden Guts: 224,113 GDPS, 112,056 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +7% Range, +12% Money | Damage: 271977, SPA: 6.08
+737. Shining Guts: 224,113 GDPS, 112,056 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +7% Range, +10% Money | Damage: 271977, SPA: 6.08
 
-738. Shining Guts: 224,113 GDPS, 112,056 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +7% Range, +10% Money | Damage: 271977, SPA: 6.08
+738. Golden Guts: 224,113 GDPS, 112,056 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +7% Range, +12% Money | Damage: 271977, SPA: 6.08
 
 739. Diamond Vegito: 225,380 GDPS, 112,690 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 726979, SPA: 6.93
 
@@ -1510,41 +1509,41 @@ Effects: [
 
 745. Accelerate Metal Bat: 223,952 GDPS, 55,988 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 304677, SPA: 5.85
 
-746. Cosmic Yamamoto: 216,667 GDPS, 72,222 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +17% Range | Damage: 155034, SPA: 3.66
+746. Entrepreneur Toji: 220,695 GDPS, 110,347 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 192439, SPA: 4.41
 
-747. Entrepreneur Yamamoto: 220,525 GDPS, 73,508 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 165886, SPA: 3.78
+747. Cosmic Yamamoto: 216,667 GDPS, 72,222 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +17% Range | Damage: 155034, SPA: 3.66
 
-748. Eagle Eye Sengoku: 214,920 GDPS, 71,640 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 364864, SPA: 5.47
+748. Entrepreneur Yamamoto: 220,525 GDPS, 73,508 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 165886, SPA: 3.78
 
-749. Juggernaut Shenron (Shiny): 222,875 GDPS, 222,875 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 1169314, SPA: 5.64
+749. Eagle Eye Sengoku: 214,920 GDPS, 71,640 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 364864, SPA: 5.47
 
-750. Vulture Metal Bat: 209,612 GDPS, 52,403 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 304677, SPA: 6.57
+750. Juggernaut Shenron (Shiny): 222,875 GDPS, 222,875 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 1169314, SPA: 5.64
 
-751. Shinigami Shanks (Young): 216,957 GDPS, 54,239 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 134758, SPA: 4.41
+751. Vulture Metal Bat: 209,612 GDPS, 52,403 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 304677, SPA: 6.57
 
-752. All Seeing Smoker: 186,912 GDPS, 46,728 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 107753, SPA: 4.07
+752. Shinigami Shanks (Young): 216,957 GDPS, 54,239 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 134758, SPA: 4.41
 
-753. Avatar Aokiji (War): 202,082 GDPS, 202,082 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 923422, SPA: 6.90
+753. All Seeing Smoker: 186,912 GDPS, 46,728 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 107753, SPA: 4.07
 
-754. Diamond Sengoku: 220,605 GDPS, 73,535 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 374517, SPA: 5.47
+754. Avatar Aokiji (War): 202,082 GDPS, 202,082 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 923422, SPA: 6.90
 
 755. Elemental Master Sengoku: 220,605 GDPS, 73,535 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 374517, SPA: 5.47
 
-756. All Seeing Whitebeard: 185,996 GDPS, 46,499 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 146214, SPA: 5.55
+756. Diamond Sengoku: 220,605 GDPS, 73,535 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 374517, SPA: 5.47
 
-757. Shining Kurama: 220,431 GDPS, 220,431 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 2993760, SPA: 14.60
+757. All Seeing Whitebeard: 185,996 GDPS, 46,499 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 146214, SPA: 5.55
 
 758. Golden Kurama: 220,431 GDPS, 220,431 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 2993760, SPA: 14.60
 
-759. Scoped Sengoku: 214,920 GDPS, 71,640 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 364864, SPA: 5.47
+759. Shining Kurama: 220,431 GDPS, 220,431 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 2993760, SPA: 14.60
 
-760. Juggernaut Metal Bat: 220,136 GDPS, 55,034 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 324828, SPA: 6.34
+760. Scoped Sengoku: 214,920 GDPS, 71,640 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 364864, SPA: 5.47
 
-761. Shining Vegito: 219,570 GDPS, 109,785 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 708242, SPA: 6.93
+761. Juggernaut Metal Bat: 220,136 GDPS, 55,034 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 324828, SPA: 6.34
 
 762. Golden Vegito: 219,570 GDPS, 109,785 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 708242, SPA: 6.93
 
-763. Entrepreneur Toji: 216,004 GDPS, 108,002 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 192439, SPA: 4.41
+763. Shining Vegito: 219,570 GDPS, 109,785 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 708242, SPA: 6.93
 
 764. Cosmic Jotaro: 211,491 GDPS, 70,497 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 228214, SPA: 3.48
 
@@ -1554,9 +1553,9 @@ Effects: [
 
 767. Vulture Vash: 202,746 GDPS, 33,791 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 152806, SPA: 5.11
 
-768. Golden Sengoku: 214,920 GDPS, 71,640 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 364864, SPA: 5.47
+768. Shining Sengoku: 214,920 GDPS, 71,640 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 364864, SPA: 5.47
 
-769. Shining Sengoku: 214,920 GDPS, 71,640 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 364864, SPA: 5.47
+769. Golden Sengoku: 214,920 GDPS, 71,640 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 364864, SPA: 5.47
 
 770. Cosmic Bobak: 207,955 GDPS, 41,591 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 67320, SPA: 1.74
 
@@ -1602,67 +1601,67 @@ Effects: [
 
 791. Overlord SSJ3 Goku: 189,922 GDPS, 189,922 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 781070, SPA: 6.21
 
-792. Elemental Master Metal Bat: 204,684 GDPS, 51,171 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 312737, SPA: 6.57
+792. Diamond Metal Bat: 204,684 GDPS, 51,171 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 312737, SPA: 6.57
 
-793. Diamond Metal Bat: 204,684 GDPS, 51,171 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 312737, SPA: 6.57
+793. Elemental Master Metal Bat: 204,684 GDPS, 51,171 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 312737, SPA: 6.57
 
-794. Scoped Metal Bat: 199,408 GDPS, 49,852 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 304677, SPA: 6.57
+794. Demi God Toji: 204,468 GDPS, 102,234 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 192439, SPA: 4.76
 
-795. Demi God Yamamoto: 204,309 GDPS, 68,103 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 165886, SPA: 4.08
+795. Scoped Metal Bat: 199,408 GDPS, 49,852 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 304677, SPA: 6.57
 
-796. All Seeing The Squad: 171,853 GDPS, 171,853 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 786629, SPA: 8.88
+796. Demi God Yamamoto: 204,309 GDPS, 68,103 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 165886, SPA: 4.08
 
-797. All Seeing Yami: 171,824 GDPS, 42,956 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 90048, SPA: 3.70
+797. All Seeing The Squad: 171,853 GDPS, 171,853 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 786629, SPA: 8.88
 
-798. Cosmic Natsu: 197,267 GDPS, 49,317 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +17% Range | Damage: 105864, SPA: 3.66
+798. All Seeing Yami: 171,824 GDPS, 42,956 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 90048, SPA: 3.70
 
-799. Entrepreneur Bobak: 200,835 GDPS, 40,167 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 70620, SPA: 1.89
+799. Cosmic Natsu: 197,267 GDPS, 49,317 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +17% Range | Damage: 105864, SPA: 3.66
 
-800. Entrepreneur Natsu: 200,776 GDPS, 50,194 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 113274, SPA: 3.78
+800. Entrepreneur Bobak: 200,835 GDPS, 40,167 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 70620, SPA: 1.89
 
-801. Overlord Android 21: 188,150 GDPS, 188,150 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 773784, SPA: 6.21
+801. Entrepreneur Natsu: 200,776 GDPS, 50,194 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 113274, SPA: 3.78
 
-802. Overlord Metal Bat: 188,150 GDPS, 188,150 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 773784, SPA: 6.21
+802. Overlord Android 21: 188,150 GDPS, 188,150 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 773784, SPA: 6.21
 
-803. Sturdy Vash: 203,082 GDPS, 33,847 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 160891, SPA: 5.11
+803. Overlord Metal Bat: 188,150 GDPS, 188,150 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 773784, SPA: 6.21
 
-804. Overlord Silver Fang: 187,872 GDPS, 187,872 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 343395, SPA: 2.76
+804. Sturdy Vash: 203,082 GDPS, 33,847 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 160891, SPA: 5.11
 
-805. Avatar Jotaro: 185,653 GDPS, 185,653 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 509008, SPA: 4.14
+805. Hyper Speed Toji: 202,967 GDPS, 101,484 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 169958, SPA: 4.23
 
-806. Hyper Speed Yamamoto: 202,809 GDPS, 67,603 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 146507, SPA: 3.63
+806. Overlord Silver Fang: 187,872 GDPS, 187,872 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 343395, SPA: 2.76
 
-807. Shining Shenron (Shiny): 201,890 GDPS, 201,890 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 1096776, SPA: 5.84
+807. Avatar Jotaro: 185,653 GDPS, 185,653 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 509008, SPA: 4.14
 
-808. Golden Shenron (Shiny): 201,890 GDPS, 201,890 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 1096776, SPA: 5.84
+808. Hyper Speed Yamamoto: 202,809 GDPS, 67,603 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 146507, SPA: 3.63
 
-809. Overlord Garp: 186,557 GDPS, 186,557 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 468864, SPA: 3.79
+809. Golden Shenron (Shiny): 201,890 GDPS, 201,890 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 1096776, SPA: 5.84
 
-810. Entrepreneur Ippo: 198,828 GDPS, 33,138 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 77682, SPA: 2.52
+810. Shining Shenron (Shiny): 201,890 GDPS, 201,890 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 1096776, SPA: 5.84
 
-811. Entrepreneur SSJ3 Goku: 198,066 GDPS, 66,022 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 348227, SPA: 5.67
+811. Overlord Garp: 186,557 GDPS, 186,557 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 468864, SPA: 3.79
 
-812. Cosmic Gojo (Evo): 195,402 GDPS, 97,701 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 632558, SPA: 6.96
+812. Entrepreneur Ippo: 198,828 GDPS, 33,138 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 77682, SPA: 2.52
 
-813. Demi God Toji: 200,122 GDPS, 100,061 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 192439, SPA: 4.76
+813. Entrepreneur SSJ3 Goku: 198,066 GDPS, 66,022 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 348227, SPA: 5.67
 
-814. Eagle Eye Vash: 192,876 GDPS, 32,146 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 152806, SPA: 5.11
+814. Cosmic Gojo (Evo): 195,402 GDPS, 97,701 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 632558, SPA: 6.96
 
-815. Shining Metal Bat: 199,408 GDPS, 49,852 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 304677, SPA: 6.57
+815. Eagle Eye Vash: 192,876 GDPS, 32,146 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 152806, SPA: 5.11
 
 816. Golden Metal Bat: 199,408 GDPS, 49,852 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 304677, SPA: 6.57
 
-817. Shinigami Garou: 194,352 GDPS, 48,588 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 170847, SPA: 3.78
+817. Shining Metal Bat: 199,408 GDPS, 49,852 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 304677, SPA: 6.57
 
-818. Hyper Speed Toji: 198,653 GDPS, 99,327 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 169958, SPA: 4.23
+818. Shinigami Garou: 194,352 GDPS, 48,588 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 170847, SPA: 3.78
 
 819. Entrepreneur Android 21: 196,218 GDPS, 65,406 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 344978, SPA: 5.67
 
 820. Entrepreneur Silver Fang: 195,927 GDPS, 65,309 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 153097, SPA: 2.52
 
-821. Elemental Master Vash: 197,982 GDPS, 32,997 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 156849, SPA: 5.11
+821. Diamond Vash: 197,982 GDPS, 32,997 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 156849, SPA: 5.11
 
-822. Diamond Vash: 197,982 GDPS, 32,997 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 156849, SPA: 5.11
+822. Elemental Master Vash: 197,982 GDPS, 32,997 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 156849, SPA: 5.11
 
 823. Cosmic Shanks (Young): 193,073 GDPS, 48,268 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 110404, SPA: 4.06
 
@@ -1674,17 +1673,17 @@ Effects: [
 
 827. All Seeing Gon: 165,375 GDPS, 55,125 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 242673, SPA: 7.77
 
-828. Avatar Metal Bat: 178,351 GDPS, 178,351 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 733482, SPA: 6.21
+828. Avatar Android 21: 178,351 GDPS, 178,351 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 733482, SPA: 6.21
 
-829. Avatar Android 21: 178,351 GDPS, 178,351 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 733482, SPA: 6.21
+829. Avatar Metal Bat: 178,351 GDPS, 178,351 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 733482, SPA: 6.21
 
 830. Avatar Silver Fang: 178,087 GDPS, 178,087 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 325510, SPA: 2.76
 
 831. Avatar Garp: 176,841 GDPS, 176,841 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 444444, SPA: 3.79
 
-832. Shining Vash: 192,876 GDPS, 32,146 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 152806, SPA: 5.11
+832. Golden Vash: 192,876 GDPS, 32,146 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 152806, SPA: 5.11
 
-833. Golden Vash: 192,876 GDPS, 32,146 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 152806, SPA: 5.11
+833. Shining Vash: 192,876 GDPS, 32,146 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 152806, SPA: 5.11
 
 834. Shinigami Saitama: 187,742 GDPS, 93,871 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 440102, SPA: 5.04
 
@@ -1692,63 +1691,63 @@ Effects: [
 
 836. Demi God Jotaro: 189,234 GDPS, 63,078 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 239401, SPA: 4.08
 
-837. Accelerate Yamamoto: 188,768 GDPS, 62,923 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 146507, SPA: 3.90
+837. Accelerate Toji: 188,915 GDPS, 94,458 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 169958, SPA: 4.55
 
-838. Entrepreneur Shanks (Young): 186,462 GDPS, 46,616 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 115816, SPA: 4.41
+838. Accelerate Yamamoto: 188,768 GDPS, 62,923 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 146507, SPA: 3.90
 
-839. Shinigami Genos: 184,026 GDPS, 30,671 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 143797, SPA: 5.04
+839. Entrepreneur Shanks (Young): 186,462 GDPS, 46,616 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 115816, SPA: 4.41
 
-840. Hyper Speed Jotaro: 187,845 GDPS, 62,615 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 211434, SPA: 3.63
+840. Shinigami Genos: 184,026 GDPS, 30,671 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 143797, SPA: 5.04
 
-841. Demi God Bobak: 186,070 GDPS, 37,214 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 70620, SPA: 2.04
+841. Hyper Speed Jotaro: 187,845 GDPS, 62,615 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 211434, SPA: 3.63
 
-842. Demi God Natsu: 186,016 GDPS, 46,504 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 113274, SPA: 4.08
+842. Demi God Bobak: 186,070 GDPS, 37,214 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 70620, SPA: 2.04
 
-843. Juggernaut Yamamoto: 185,552 GDPS, 61,851 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 156196, SPA: 4.23
+843. Demi God Natsu: 186,016 GDPS, 46,504 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 113274, SPA: 4.08
 
-844. Cosmic Drip Nami (Evo): 180,946 GDPS, 32,176 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 104346, SPA: 3.77
+844. Juggernaut Toji: 185,697 GDPS, 92,848 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 181198, SPA: 4.93
 
-845. Accelerate Toji: 184,900 GDPS, 92,450 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 169958, SPA: 4.55
+845. Juggernaut Yamamoto: 185,552 GDPS, 61,851 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 156196, SPA: 4.23
 
-846. Hyper Speed Bobak: 184,705 GDPS, 36,941 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 62370, SPA: 1.81
+846. Cosmic Drip Nami (Evo): 180,946 GDPS, 32,176 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 104346, SPA: 3.77
 
-847. Hyper Speed Natsu: 184,651 GDPS, 46,163 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 100041, SPA: 3.63
+847. Hyper Speed Bobak: 184,705 GDPS, 36,941 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 62370, SPA: 1.81
 
-848. Shinigami Smoker: 179,980 GDPS, 44,995 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 145030, SPA: 3.46
+848. Hyper Speed Natsu: 184,651 GDPS, 46,163 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 100041, SPA: 3.63
 
-849. Vulture Yamamoto: 173,602 GDPS, 57,867 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 146507, SPA: 4.38
+849. Shinigami Smoker: 179,980 GDPS, 44,995 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 145030, SPA: 3.46
 
-850. Demi God Ippo: 184,212 GDPS, 30,702 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 77682, SPA: 2.72
+850. Vulture Yamamoto: 173,602 GDPS, 57,867 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 146507, SPA: 4.38
 
-851. Shinigami Whitebeard: 179,096 GDPS, 44,774 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 196797, SPA: 4.72
+851. Demi God Ippo: 184,212 GDPS, 30,702 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 77682, SPA: 2.72
 
-852. Demi God SSJ3 Goku: 183,501 GDPS, 61,167 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 348227, SPA: 6.12
+852. Shinigami Whitebeard: 179,096 GDPS, 44,774 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 196797, SPA: 4.72
 
-853. Hyper Speed Ippo: 182,856 GDPS, 30,476 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 68607, SPA: 2.42
+853. Demi God SSJ3 Goku: 183,501 GDPS, 61,167 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 348227, SPA: 6.12
 
-854. All Seeing Sukuna: 153,878 GDPS, 38,469 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 69291, SPA: 4.44
+854. Hyper Speed Ippo: 182,856 GDPS, 30,476 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 68607, SPA: 2.42
 
-855. Hyper Speed SSJ3 Goku: 182,157 GDPS, 60,719 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 307546, SPA: 5.45
+855. Vulture Toji: 172,054 GDPS, 86,027 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 169958, SPA: 5.11
 
-856. Demi God Android 21: 181,791 GDPS, 60,597 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 344978, SPA: 6.12
+856. All Seeing Sukuna: 153,878 GDPS, 38,469 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 69291, SPA: 4.44
 
-857. Juggernaut Toji: 181,750 GDPS, 90,875 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 181198, SPA: 4.93
+857. Hyper Speed SSJ3 Goku: 182,157 GDPS, 60,719 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 307546, SPA: 5.45
 
-858. Demi God Silver Fang: 181,521 GDPS, 60,507 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 153097, SPA: 2.72
+858. Demi God Android 21: 181,791 GDPS, 60,597 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 344978, SPA: 6.12
 
-859. Hyper Speed Android 21: 180,456 GDPS, 60,152 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 304677, SPA: 5.45
+859. Demi God Silver Fang: 181,521 GDPS, 60,507 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 153097, SPA: 2.72
 
-860. Demi God Garp: 180,252 GDPS, 60,084 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 209035, SPA: 3.74
+860. Hyper Speed Android 21: 180,456 GDPS, 60,152 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 304677, SPA: 5.45
 
-861. Hyper Speed Silver Fang: 180,189 GDPS, 60,063 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 135211, SPA: 2.42
+861. Demi God Garp: 180,252 GDPS, 60,084 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 209035, SPA: 3.74
 
-862. Shinigami Sukuna: 175,176 GDPS, 43,794 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 93262, SPA: 3.78
+862. Hyper Speed Silver Fang: 180,189 GDPS, 60,063 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 135211, SPA: 2.42
 
-863. Shinigami The Squad: 175,059 GDPS, 175,059 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 1058760, SPA: 7.56
+863. Shinigami Sukuna: 175,176 GDPS, 43,794 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 93262, SPA: 3.78
 
-864. Hyper Speed Garp: 178,929 GDPS, 59,643 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 184615, SPA: 3.33
+864. Shinigami The Squad: 175,059 GDPS, 175,059 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 1058760, SPA: 7.56
 
-865. Vulture Toji: 168,296 GDPS, 84,148 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 169958, SPA: 5.11
+865. Hyper Speed Garp: 178,929 GDPS, 59,643 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 184615, SPA: 3.33
 
 866. Elemental Master Meteor Guard: 178,613 GDPS, 59,538 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 300894, SPA: 6.57
 
@@ -1760,115 +1759,115 @@ Effects: [
 
 870. Cosmic Garou: 172,952 GDPS, 43,238 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 139971, SPA: 3.48
 
-871. Sturdy Yamamoto: 176,974 GDPS, 58,991 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 154258, SPA: 4.38
+871. Sturdy Toji: 177,112 GDPS, 88,556 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 178950, SPA: 5.11
 
-872. Entrepreneur Drip Nami (Evo): 174,749 GDPS, 31,074 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 109461, SPA: 4.09
+872. Sturdy Yamamoto: 176,974 GDPS, 58,991 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 154258, SPA: 4.38
 
-873. Shinigami Aokiji (War): 172,460 GDPS, 86,230 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 505345, SPA: 6.30
+873. Entrepreneur Drip Nami (Evo): 174,749 GDPS, 31,074 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 109461, SPA: 4.09
 
-874. Overlord Gojo: 162,229 GDPS, 162,229 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 277992, SPA: 2.59
+874. Shinigami Aokiji (War): 172,460 GDPS, 86,230 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 505345, SPA: 6.30
 
-875. Accelerate Jotaro: 174,840 GDPS, 58,280 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 211434, SPA: 3.90
+875. Overlord Gojo: 162,229 GDPS, 162,229 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 277992, SPA: 2.59
 
-876. Demi God Gojo (Evo): 174,836 GDPS, 87,418 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 663566, SPA: 8.16
+876. Accelerate Jotaro: 174,840 GDPS, 58,280 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 211434, SPA: 3.90
 
-877. Eagle Eye Yamamoto: 168,082 GDPS, 56,027 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 146507, SPA: 4.38
+877. Demi God Gojo (Evo): 174,836 GDPS, 87,418 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 663566, SPA: 8.16
 
-878. Vulture Jotaro: 163,644 GDPS, 54,548 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 211434, SPA: 4.38
+878. Eagle Eye Toji: 168,211 GDPS, 84,106 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 169958, SPA: 5.11
 
-879. Hyper Speed Gojo (Evo): 173,554 GDPS, 86,777 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 586047, SPA: 7.26
+879. Eagle Eye Yamamoto: 168,082 GDPS, 56,027 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 146507, SPA: 4.38
 
-880. Sturdy Toji: 173,347 GDPS, 86,674 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 178950, SPA: 5.11
+880. Vulture Jotaro: 163,644 GDPS, 54,548 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 211434, SPA: 4.38
 
-881. Vulture Shanks (Young): 156,844 GDPS, 39,211 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +47% Range | Damage: 96874, SPA: 6.09
+881. Hyper Speed Gojo (Evo): 173,554 GDPS, 86,777 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 586047, SPA: 7.26
 
-882. Demi God Shanks (Young): 172,752 GDPS, 43,188 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 115816, SPA: 4.76
+882. Vulture Shanks (Young): 156,844 GDPS, 39,211 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +47% Range | Damage: 96874, SPA: 6.09
 
-883. Diamond Yamamoto: 172,528 GDPS, 57,509 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 150382, SPA: 4.38
+883. Demi God Shanks (Young): 172,752 GDPS, 43,188 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 115816, SPA: 4.76
 
-884. Scoped Yamamoto: 168,082 GDPS, 56,027 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 146507, SPA: 4.38
+884. Diamond Toji: 172,662 GDPS, 86,331 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 174454, SPA: 5.11
 
-885. Accelerate Bobak: 171,915 GDPS, 34,383 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 62370, SPA: 1.95
+885. Diamond Yamamoto: 172,528 GDPS, 57,509 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 150382, SPA: 4.38
 
-886. Accelerate Natsu: 171,868 GDPS, 42,967 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 100041, SPA: 3.90
+886. Scoped Toji: 168,211 GDPS, 84,106 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 169958, SPA: 5.11
 
-887. Juggernaut Jotaro: 171,861 GDPS, 57,287 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 225418, SPA: 4.23
+887. Scoped Yamamoto: 168,082 GDPS, 56,027 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 146507, SPA: 4.38
 
-888. Hyper Speed Shanks (Young): 171,484 GDPS, 42,871 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 102286, SPA: 4.23
+888. Accelerate Bobak: 171,915 GDPS, 34,383 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 62370, SPA: 1.95
 
-889. Cosmic Saitama: 167,072 GDPS, 83,536 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 360565, SPA: 4.64
+889. Accelerate Natsu: 171,868 GDPS, 42,967 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 100041, SPA: 3.90
 
-890. Vulture Bobak: 160,910 GDPS, 32,182 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 62370, SPA: 2.19
+890. Juggernaut Jotaro: 171,861 GDPS, 57,287 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 225418, SPA: 4.23
 
-891. Eagle Eye Toji: 164,636 GDPS, 82,318 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 169958, SPA: 5.11
+891. Hyper Speed Shanks (Young): 171,484 GDPS, 42,871 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 102286, SPA: 4.23
 
-892. All Seeing Ulquiorra: 143,982 GDPS, 47,994 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 100610, SPA: 3.70
+892. Cosmic Saitama: 167,072 GDPS, 83,536 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 360565, SPA: 4.64
 
-893. Accelerate Ippo: 170,196 GDPS, 28,366 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 68607, SPA: 2.60
+893. Vulture Bobak: 160,910 GDPS, 32,182 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 62370, SPA: 2.19
 
-894. Sturdy Shanks (Young): 162,921 GDPS, 40,730 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range | Damage: 102286, SPA: 6.09
+894. All Seeing Ulquiorra: 143,982 GDPS, 47,994 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 100610, SPA: 3.70
 
-895. Accelerate SSJ3 Goku: 169,545 GDPS, 56,515 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 307546, SPA: 5.85
+895. Accelerate Ippo: 170,196 GDPS, 28,366 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 68607, SPA: 2.60
 
-896. Shinigami Yami: 165,448 GDPS, 41,362 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 121200, SPA: 3.15
+896. Sturdy Shanks (Young): 162,921 GDPS, 40,730 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range | Damage: 102286, SPA: 6.09
 
-897. Juggernaut Shanks (Young): 161,365 GDPS, 40,341 DPS | Vision 1, Empowered Crit 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +25% Range | Damage: 101475, SPA: 6.12
+897. Accelerate SSJ3 Goku: 169,545 GDPS, 56,515 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 307546, SPA: 5.85
 
-898. Vulture Ippo: 159,300 GDPS, 26,550 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 68607, SPA: 2.92
+898. Shinigami Yami: 165,448 GDPS, 41,362 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 121200, SPA: 3.15
 
-899. Entrepreneur Garou: 167,032 GDPS, 41,758 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 146833, SPA: 3.78
+899. Juggernaut Shanks (Young): 161,365 GDPS, 40,341 DPS | Vision 1, Empowered Crit 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +25% Range | Damage: 101475, SPA: 6.12
 
-900. Diamond Toji: 168,992 GDPS, 84,496 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 174454, SPA: 5.11
+900. Vulture Ippo: 159,300 GDPS, 26,550 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 68607, SPA: 2.92
 
-901. Juggernaut Bobak: 168,990 GDPS, 33,798 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 66495, SPA: 2.11
+901. Entrepreneur Garou: 167,032 GDPS, 41,758 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 146833, SPA: 3.78
 
-902. Juggernaut Natsu: 168,939 GDPS, 42,235 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 106657, SPA: 4.23
+902. Juggernaut Bobak: 168,990 GDPS, 33,798 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 66495, SPA: 2.11
 
-903. Scoped Toji: 164,636 GDPS, 82,318 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 169958, SPA: 5.11
+903. Juggernaut Natsu: 168,939 GDPS, 42,235 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 106657, SPA: 4.23
 
 904. Glitched The Trio: 146,114 GDPS, 73,057 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 161139, SPA: 6.43
 
 905. Vulture SSJ3 Goku: 158,688 GDPS, 52,896 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 307546, SPA: 6.57
 
-906. Golden Yamamoto: 168,082 GDPS, 56,027 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 146507, SPA: 4.38
+906. Golden Toji: 168,211 GDPS, 84,106 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 169958, SPA: 5.11
 
-907. Shining Yamamoto: 168,082 GDPS, 56,027 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 146507, SPA: 4.38
+907. Shining Toji: 168,211 GDPS, 84,106 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 169958, SPA: 5.11
 
-908. Avatar Gojo: 153,780 GDPS, 153,780 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 263513, SPA: 2.59
+908. Golden Yamamoto: 168,082 GDPS, 56,027 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 146507, SPA: 4.38
 
-909. Accelerate Android 21: 167,964 GDPS, 55,988 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 304677, SPA: 5.85
+909. Shining Yamamoto: 168,082 GDPS, 56,027 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 146507, SPA: 4.38
 
-910. Vulture Natsu: 158,057 GDPS, 39,514 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 100041, SPA: 4.38
+910. Avatar Gojo: 153,780 GDPS, 153,780 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 263513, SPA: 2.59
 
-911. Cosmic Genos: 163,764 GDPS, 27,294 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 117810, SPA: 4.64
+911. Accelerate Android 21: 167,964 GDPS, 55,988 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 304677, SPA: 5.85
 
-912. Accelerate Silver Fang: 167,715 GDPS, 55,905 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 135211, SPA: 2.60
+912. Vulture Natsu: 158,057 GDPS, 39,514 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 100041, SPA: 4.38
 
-913. Juggernaut Ippo: 167,298 GDPS, 27,883 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 73144, SPA: 2.82
+913. Cosmic Genos: 163,764 GDPS, 27,294 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 117810, SPA: 4.64
 
-914. Vulture Android 21: 157,209 GDPS, 52,403 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 304677, SPA: 6.57
+914. Accelerate Silver Fang: 167,715 GDPS, 55,905 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 135211, SPA: 2.60
 
-915. Eagle Eye Shanks (Young): 154,300 GDPS, 38,575 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +37% Range | Damage: 96874, SPA: 6.09
+915. Juggernaut Ippo: 167,298 GDPS, 27,883 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 73144, SPA: 2.82
 
-916. Vulture Silver Fang: 156,975 GDPS, 52,325 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 135211, SPA: 2.92
+916. Vulture Android 21: 157,209 GDPS, 52,403 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 304677, SPA: 6.57
 
-917. Juggernaut SSJ3 Goku: 166,656 GDPS, 55,552 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 327886, SPA: 6.34
+917. Eagle Eye Shanks (Young): 154,300 GDPS, 38,575 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +37% Range | Damage: 96874, SPA: 6.09
 
-918. Accelerate Garp: 166,542 GDPS, 55,514 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 184615, SPA: 3.58
+918. Vulture Silver Fang: 156,975 GDPS, 52,325 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 135211, SPA: 2.92
 
-919. Vulture Garp: 155,877 GDPS, 51,959 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 184615, SPA: 4.01
+919. Juggernaut SSJ3 Goku: 166,656 GDPS, 55,552 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 327886, SPA: 6.34
 
-920. Diamond Shanks (Young): 158,609 GDPS, 39,652 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range, +20% Money | Damage: 99580, SPA: 6.09
+920. Accelerate Garp: 166,542 GDPS, 55,514 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 184615, SPA: 3.58
 
-921. Juggernaut Android 21: 165,102 GDPS, 55,034 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 324828, SPA: 6.34
+921. Vulture Garp: 155,877 GDPS, 51,959 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 184615, SPA: 4.01
 
-922. Juggernaut Silver Fang: 164,859 GDPS, 54,953 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 144154, SPA: 2.82
+922. Diamond Shanks (Young): 158,609 GDPS, 39,652 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range, +20% Money | Damage: 99580, SPA: 6.09
 
-923. Scoped Shanks (Young): 154,300 GDPS, 38,575 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +32% Range | Damage: 96874, SPA: 6.09
+923. Juggernaut Android 21: 165,102 GDPS, 55,034 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 324828, SPA: 6.34
 
-924. Golden Toji: 164,636 GDPS, 82,318 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 169958, SPA: 5.11
+924. Juggernaut Silver Fang: 164,859 GDPS, 54,953 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 144154, SPA: 2.82
 
-925. Shining Toji: 164,636 GDPS, 82,318 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 169958, SPA: 5.11
+925. Scoped Shanks (Young): 154,300 GDPS, 38,575 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +32% Range | Damage: 96874, SPA: 6.09
 
 926. Cosmic Smoker: 160,164 GDPS, 40,041 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 118819, SPA: 3.19
 
@@ -1894,9 +1893,9 @@ Effects: [
 
 937. Sturdy Natsu: 161,130 GDPS, 40,282 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 105334, SPA: 4.38
 
-938. Golden Shanks (Young): 154,300 GDPS, 38,575 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range, +12% Money | Damage: 96874, SPA: 6.09
+938. Shining Shanks (Young): 154,300 GDPS, 38,575 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range, +10% Money | Damage: 96874, SPA: 6.09
 
-939. Shining Shanks (Young): 154,300 GDPS, 38,575 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range, +10% Money | Damage: 96874, SPA: 6.09
+939. Golden Shanks (Young): 154,300 GDPS, 38,575 DPS | Empower 1, Shatter 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range, +12% Money | Damage: 96874, SPA: 6.09
 
 940. Hyper Speed Drip Nami (Evo): 160,713 GDPS, 28,578 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 96673, SPA: 3.93
 
@@ -1904,9 +1903,9 @@ Effects: [
 
 942. Entrepreneur Genos: 158,160 GDPS, 26,360 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 123585, SPA: 5.04
 
-943. Elemental Master Jotaro: 159,798 GDPS, 53,266 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 217027, SPA: 4.38
+943. Diamond Jotaro: 159,798 GDPS, 53,266 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 217027, SPA: 4.38
 
-944. Diamond Jotaro: 159,798 GDPS, 53,266 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 217027, SPA: 4.38
+944. Elemental Master Jotaro: 159,798 GDPS, 53,266 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 217027, SPA: 4.38
 
 945. Cosmic Sukuna: 155,890 GDPS, 38,972 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 76408, SPA: 3.48
 
@@ -1954,9 +1953,9 @@ Effects: [
 
 967. Entrepreneur Whitebeard: 153,920 GDPS, 38,480 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 169134, SPA: 4.72
 
-968. Shining Jotaro: 155,679 GDPS, 51,893 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 211434, SPA: 4.38
+968. Golden Jotaro: 155,679 GDPS, 51,893 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 211434, SPA: 4.38
 
-969. Golden Jotaro: 155,679 GDPS, 51,893 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 211434, SPA: 4.38
+969. Shining Jotaro: 155,679 GDPS, 51,893 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 211434, SPA: 4.38
 
 970. Diamond Ippo: 155,556 GDPS, 25,926 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 70422, SPA: 2.92
 
@@ -1966,9 +1965,9 @@ Effects: [
 
 973. Eagle Eye Android 21: 149,556 GDPS, 49,852 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 304677, SPA: 6.57
 
-974. Diamond SSJ3 Goku: 154,959 GDPS, 51,653 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 315682, SPA: 6.57
+974. Elemental Master SSJ3 Goku: 154,959 GDPS, 51,653 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 315682, SPA: 6.57
 
-975. Elemental Master SSJ3 Goku: 154,959 GDPS, 51,653 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 315682, SPA: 6.57
+975. Diamond SSJ3 Goku: 154,959 GDPS, 51,653 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 315682, SPA: 6.57
 
 976. Eagle Eye Silver Fang: 149,334 GDPS, 49,778 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 135211, SPA: 2.92
 
@@ -1982,9 +1981,9 @@ Effects: [
 
 981. Hyper Speed Garou: 153,616 GDPS, 38,404 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 129679, SPA: 3.63
 
-982. Elemental Master Android 21: 153,513 GDPS, 51,171 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 312737, SPA: 6.57
+982. Diamond Android 21: 153,513 GDPS, 51,171 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 312737, SPA: 6.57
 
-983. Diamond Android 21: 153,513 GDPS, 51,171 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 312737, SPA: 6.57
+983. Elemental Master Android 21: 153,513 GDPS, 51,171 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 312737, SPA: 6.57
 
 984. Diamond Silver Fang: 153,285 GDPS, 51,095 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 138788, SPA: 2.92
 
@@ -2008,9 +2007,9 @@ Effects: [
 
 994. Entrepreneur The Squad: 150,452 GDPS, 150,452 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 909938, SPA: 7.56
 
-995. Diamond Garp: 152,214 GDPS, 50,738 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 189499, SPA: 4.01
+995. Elemental Master Garp: 152,214 GDPS, 50,738 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 189499, SPA: 4.01
 
-996. Elemental Master Garp: 152,214 GDPS, 50,738 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 189499, SPA: 4.01
+996. Diamond Garp: 152,214 GDPS, 50,738 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 189499, SPA: 4.01
 
 997. Scoped Garp: 148,290 GDPS, 49,430 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 184615, SPA: 4.01
 
@@ -2052,9 +2051,9 @@ Effects: [
 
 1016. Hyper Speed Saitama: 148,392 GDPS, 74,196 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 334053, SPA: 4.84
 
-1017. Golden Garp: 148,290 GDPS, 49,430 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 184615, SPA: 4.01
+1017. Shining Garp: 148,290 GDPS, 49,430 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 184615, SPA: 4.01
 
-1018. Shining Garp: 148,290 GDPS, 49,430 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 184615, SPA: 4.01
+1018. Golden Garp: 148,290 GDPS, 49,430 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 184615, SPA: 4.01
 
 1019. Shinigami Bruford: 144,693 GDPS, 28,939 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 61627, SPA: 3.78
 
@@ -2062,9 +2061,9 @@ Effects: [
 
 1021. Shinigami Shenron (Evo): 144,207 GDPS, 144,207 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 845118, SPA: 6.30
 
-1022. Elemental Master Gojo (Evo): 147,640 GDPS, 73,820 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 601551, SPA: 8.76
+1022. Diamond Gojo (Evo): 147,640 GDPS, 73,820 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 601551, SPA: 8.76
 
-1023. Diamond Gojo (Evo): 147,640 GDPS, 73,820 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 601551, SPA: 8.76
+1023. Elemental Master Gojo (Evo): 147,640 GDPS, 73,820 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 601551, SPA: 8.76
 
 1024. Scoped Gojo (Evo): 143,836 GDPS, 71,918 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 586047, SPA: 8.76
 
@@ -2164,9 +2163,9 @@ Effects: [
 
 1072. Shinigami Itachi: 129,987 GDPS, 43,329 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 97782, SPA: 3.78
 
-1073. Shining Drip Nami (Evo): 133,195 GDPS, 23,685 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 96673, SPA: 4.75
+1073. Golden Drip Nami (Evo): 133,195 GDPS, 23,685 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 96673, SPA: 4.75
 
-1074. Golden Drip Nami (Evo): 133,195 GDPS, 23,685 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 96673, SPA: 4.75
+1074. Shining Drip Nami (Evo): 133,195 GDPS, 23,685 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 96673, SPA: 4.75
 
 1075. Juggernaut Genos: 133,080 GDPS, 22,180 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 116366, SPA: 5.64
 
@@ -2280,9 +2279,9 @@ Effects: [
 
 1130. Overlord Ulquiorra: 114,254 GDPS, 114,254 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 261043, SPA: 3.45
 
-1131. Golden Saitama: 122,982 GDPS, 61,491 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 334053, SPA: 5.84
+1131. Shining Saitama: 122,982 GDPS, 61,491 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 334053, SPA: 5.84
 
-1132. Shining Saitama: 122,982 GDPS, 61,491 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 334053, SPA: 5.84
+1132. Golden Saitama: 122,982 GDPS, 61,491 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 334053, SPA: 5.84
 
 1133. Overlord Guitar Hero: 113,447 GDPS, 113,447 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 570240, SPA: 7.59
 
@@ -2296,9 +2295,9 @@ Effects: [
 
 1138. Diamond The Squad: 118,882 GDPS, 118,882 DPS | Vision 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +12% Range, +20% Money | Damage: 833401, SPA: 10.20
 
-1139. Elemental Master Smoker: 121,016 GDPS, 30,254 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 112995, SPA: 4.01
+1139. Diamond Smoker: 121,016 GDPS, 30,254 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 112995, SPA: 4.01
 
-1140. Diamond Smoker: 121,016 GDPS, 30,254 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 112995, SPA: 4.01
+1140. Elemental Master Smoker: 121,016 GDPS, 30,254 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 112995, SPA: 4.01
 
 1141. Vulture Yami: 113,924 GDPS, 28,481 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 91995, SPA: 3.65
 
@@ -2314,9 +2313,9 @@ Effects: [
 
 1147. Entrepreneur Ulquiorra: 119,154 GDPS, 39,718 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 116381, SPA: 3.15
 
-1148. Shining Genos: 120,546 GDPS, 20,091 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 109147, SPA: 5.84
+1148. Golden Genos: 120,546 GDPS, 20,091 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 109147, SPA: 5.84
 
-1149. Golden Genos: 120,546 GDPS, 20,091 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 109147, SPA: 5.84
+1149. Shining Genos: 120,546 GDPS, 20,091 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 109147, SPA: 5.84
 
 1150. Elemental Master Natsu: 120,502 GDPS, 30,125 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 100570, SPA: 4.44
 
@@ -2346,9 +2345,9 @@ Effects: [
 
 1163. Avatar Ulquiorra: 108,303 GDPS, 108,303 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 247447, SPA: 3.45
 
-1164. Golden The Squad: 115,850 GDPS, 115,850 DPS | Vision 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +12% Range, +12% Money | Damage: 812141, SPA: 10.20
+1164. Shining The Squad: 115,850 GDPS, 115,850 DPS | Vision 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +12% Range, +10% Money | Damage: 812141, SPA: 10.20
 
-1165. Shining The Squad: 115,850 GDPS, 115,850 DPS | Vision 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +12% Range, +10% Money | Damage: 812141, SPA: 10.20
+1165. Golden The Squad: 115,850 GDPS, 115,850 DPS | Vision 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +12% Range, +12% Money | Damage: 812141, SPA: 10.20
 
 1166. Shining Smoker: 117,896 GDPS, 29,474 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 110083, SPA: 4.01
 
@@ -2386,55 +2385,55 @@ Effects: [
 
 1183. Glitched Stroheim: 100,104 GDPS, 50,052 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 134930, SPA: 7.86
 
-1184. Demi God Bruford: 115,211 GDPS, 23,042 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 52965, SPA: 4.08
+1184. Elemental Master Toji: 109,798 GDPS, 54,899 DPS | Vision 1, Empowered Crit 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +25% Range | Damage: 161865, SPA: 6.30
 
-1185. Avatar Smoker: 105,447 GDPS, 105,447 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 265014, SPA: 3.79
+1185. Demi God Bruford: 115,211 GDPS, 23,042 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 52965, SPA: 4.08
 
-1186. Juggernaut Gon: 115,155 GDPS, 38,385 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 264317, SPA: 7.40
+1186. Avatar Smoker: 105,447 GDPS, 105,447 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 265014, SPA: 3.79
 
-1187. Demi God Kizaru: 115,076 GDPS, 28,769 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 118288, SPA: 4.42
+1187. Juggernaut Gon: 115,155 GDPS, 38,385 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 264317, SPA: 7.40
 
-1188. Demi God Shenron (Evo): 114,824 GDPS, 114,824 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 726326, SPA: 6.80
+1188. Demi God Kizaru: 115,076 GDPS, 28,769 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 118288, SPA: 4.42
 
-1189. Shining Sukuna: 114,750 GDPS, 28,687 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 70789, SPA: 4.38
+1189. Demi God Shenron (Evo): 114,824 GDPS, 114,824 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 726326, SPA: 6.80
 
 1190. Golden Sukuna: 114,750 GDPS, 28,687 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 70789, SPA: 4.38
 
-1191. Avatar Whitebeard: 104,929 GDPS, 104,929 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 359609, SPA: 5.17
+1191. Shining Sukuna: 114,750 GDPS, 28,687 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 70789, SPA: 4.38
 
-1192. Hyper Speed Bruford: 114,367 GDPS, 22,873 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 46777, SPA: 3.63
+1192. Avatar Whitebeard: 104,929 GDPS, 104,929 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 359609, SPA: 5.17
 
-1193. Hyper Speed Kizaru: 114,232 GDPS, 28,558 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 104469, SPA: 3.93
+1193. Hyper Speed Bruford: 114,367 GDPS, 22,873 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 46777, SPA: 3.63
 
-1194. Entrepreneur Gojo: 112,790 GDPS, 56,395 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 123938, SPA: 2.36
+1194. Hyper Speed Kizaru: 114,232 GDPS, 28,558 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 104469, SPA: 3.93
 
-1195. Sturdy Yami: 114,112 GDPS, 28,528 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 96863, SPA: 3.65
+1195. Entrepreneur Gojo: 112,790 GDPS, 56,395 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 123938, SPA: 2.36
 
-1196. Shinigami Boa: 111,356 GDPS, 55,678 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 163148, SPA: 3.15
+1196. Sturdy Yami: 114,112 GDPS, 28,528 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 96863, SPA: 3.65
 
-1197. Hyper Speed Shenron (Evo): 113,981 GDPS, 113,981 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 641475, SPA: 6.05
+1197. Shinigami Boa: 111,356 GDPS, 55,678 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 163148, SPA: 3.15
 
-1198. Avatar Drip Nami (Evo): 102,785 GDPS, 102,785 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +47% Range | Damage: 235801, SPA: 5.07
+1198. Hyper Speed Shenron (Evo): 113,981 GDPS, 113,981 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 641475, SPA: 6.05
 
-1199. Shinigami SSJ4 Gogeta: 110,712 GDPS, 27,678 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 81101, SPA: 3.15
+1199. Avatar Drip Nami (Evo): 102,785 GDPS, 102,785 DPS | Speedy 1, Empowered Crit 1, Empower 2, Enlightened Sight, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +47% Range | Damage: 235801, SPA: 5.07
 
-1200. Cosmic Itachi: 109,762 GDPS, 36,587 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +17% Range | Damage: 78540, SPA: 3.66
+1200. Shinigami SSJ4 Gogeta: 110,712 GDPS, 27,678 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 81101, SPA: 3.15
 
-1201. Entrepreneur Itachi: 111,718 GDPS, 37,239 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 84037, SPA: 3.78
+1201. Cosmic Itachi: 109,762 GDPS, 36,587 DPS | Vision 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +17% Range | Damage: 78540, SPA: 3.66
 
-1202. Golden Aokiji (War): 112,970 GDPS, 56,485 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 383575, SPA: 7.30
+1202. Entrepreneur Itachi: 111,718 GDPS, 37,239 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 84037, SPA: 3.78
 
-1203. Shining Aokiji (War): 112,970 GDPS, 56,485 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 383575, SPA: 7.30
+1203. Golden Aokiji (War): 112,970 GDPS, 56,485 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 383575, SPA: 7.30
 
-1204. All Seeing Guitar Hero: 95,310 GDPS, 47,655 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 219780, SPA: 8.14
+1204. Shining Aokiji (War): 112,970 GDPS, 56,485 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 383575, SPA: 7.30
 
-1205. Elemental Master Toji: 107,139 GDPS, 53,570 DPS | Vision 1, Empowered Crit 1, Vision 2, Enlightened Power, Critical 1, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +25% Range | Damage: 161865, SPA: 6.30
+1205. All Seeing Guitar Hero: 95,310 GDPS, 47,655 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 219780, SPA: 8.14
 
 1206. Eagle Eye Yami: 108,380 GDPS, 27,095 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 91995, SPA: 3.65
 
-1207. Elemental Master Yami: 111,244 GDPS, 27,811 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 94429, SPA: 3.65
+1207. Diamond Yami: 111,244 GDPS, 27,811 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 94429, SPA: 3.65
 
-1208. Diamond Yami: 111,244 GDPS, 27,811 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 94429, SPA: 3.65
+1208. Elemental Master Yami: 111,244 GDPS, 27,811 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 94429, SPA: 3.65
 
 1209. All Seeing Minato (Evo): 93,842 GDPS, 46,921 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 255738, SPA: 9.62
 
@@ -2466,9 +2465,9 @@ Effects: [
 
 1223. Elemental Master The Squad: 107,409 GDPS, 107,409 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 824897, SPA: 8.76
 
-1224. Elemental Master Gon: 107,070 GDPS, 35,690 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 254479, SPA: 7.67
+1224. Diamond Gon: 107,070 GDPS, 35,690 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 254479, SPA: 7.67
 
-1225. Diamond Gon: 107,070 GDPS, 35,690 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 254479, SPA: 7.67
+1225. Elemental Master Gon: 107,070 GDPS, 35,690 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 254479, SPA: 7.67
 
 1226. Scoped Gon: 104,310 GDPS, 34,770 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 247920, SPA: 7.67
 
@@ -2492,9 +2491,9 @@ Effects: [
 
 1236. Demi God Gojo: 104,496 GDPS, 52,248 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 123938, SPA: 2.55
 
-1237. Shining Gon: 104,310 GDPS, 34,770 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 247920, SPA: 7.67
+1237. Golden Gon: 104,310 GDPS, 34,770 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 247920, SPA: 7.67
 
-1238. Golden Gon: 104,310 GDPS, 34,770 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 247920, SPA: 7.67
+1238. Shining Gon: 104,310 GDPS, 34,770 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 247920, SPA: 7.67
 
 1239. Juggernaut Shenron (Evo): 104,283 GDPS, 104,283 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 683901, SPA: 7.05
 
@@ -2546,9 +2545,9 @@ Effects: [
 
 1263. Entrepreneur Ghiaccio: 98,100 GDPS, 32,700 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 210800, SPA: 6.93
 
-1264. Golden Sukuna (Evo): 98,916 GDPS, 98,916 DPS, 32,908 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 179500, SPA: 4.01
+1264. Shining Sukuna (Evo): 98,916 GDPS, 98,916 DPS, 32,908 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 179500, SPA: 4.01
 
-1265. Shining Sukuna (Evo): 98,916 GDPS, 98,916 DPS, 32,908 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 179500, SPA: 4.01
+1265. Golden Sukuna (Evo): 98,916 GDPS, 98,916 DPS, 32,908 ADPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 179500, SPA: 4.01
 
 1266. Avatar Ippo: 90,362 GDPS, 90,362 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +42% Range | Damage: 165165, SPA: 2.76
 
@@ -2602,9 +2601,9 @@ Effects: [
 
 1291. Overlord Drip Nami (Evo): 87,451 GDPS, 87,451 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 245520, SPA: 4.48
 
-1292. Shining Shenron (Evo): 94,464 GDPS, 94,464 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 641475, SPA: 7.30
+1292. Golden Shenron (Evo): 94,464 GDPS, 94,464 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 641475, SPA: 7.30
 
-1293. Golden Shenron (Evo): 94,464 GDPS, 94,464 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 641475, SPA: 7.30
+1293. Shining Shenron (Evo): 94,464 GDPS, 94,464 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 641475, SPA: 7.30
 
 1294. Eagle Eye Ulquiorra: 90,819 GDPS, 30,273 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 102785, SPA: 3.65
 
@@ -2616,9 +2615,9 @@ Effects: [
 
 1298. Vulture Itachi: 87,945 GDPS, 29,315 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 74220, SPA: 4.38
 
-1299. Elemental Master Ulquiorra: 93,219 GDPS, 31,073 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 105504, SPA: 3.65
+1299. Diamond Ulquiorra: 93,219 GDPS, 31,073 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 105504, SPA: 3.65
 
-1300. Diamond Ulquiorra: 93,219 GDPS, 31,073 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 105504, SPA: 3.65
+1300. Elemental Master Ulquiorra: 93,219 GDPS, 31,073 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 105504, SPA: 3.65
 
 1301. Scoped Ulquiorra: 90,819 GDPS, 30,273 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 102785, SPA: 3.65
 
@@ -2766,9 +2765,9 @@ Effects: [
 
 1373. Golden Akainu: 74,797 GDPS, 37,399 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 122245, SPA: 5.47
 
-1374. Shining Ghiaccio: 74,772 GDPS, 24,924 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 186174, SPA: 8.03
+1374. Golden Ghiaccio: 74,772 GDPS, 24,924 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 186174, SPA: 8.03
 
-1375. Golden Ghiaccio: 74,772 GDPS, 24,924 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 186174, SPA: 8.03
+1375. Shining Ghiaccio: 74,772 GDPS, 24,924 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 186174, SPA: 8.03
 
 1376. Scoped Boa: 72,944 GDPS, 36,472 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 123835, SPA: 3.65
 
@@ -2790,15 +2789,15 @@ Effects: [
 
 1385. Demi God Guitar Hero: 73,074 GDPS, 36,537 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 254232, SPA: 7.48
 
-1386. Shining Boa: 72,944 GDPS, 36,472 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 123835, SPA: 3.65
+1386. Golden Boa: 72,944 GDPS, 36,472 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 123835, SPA: 3.65
 
-1387. Golden Boa: 72,944 GDPS, 36,472 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 123835, SPA: 3.65
+1387. Shining Boa: 72,944 GDPS, 36,472 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 123835, SPA: 3.65
 
 1388. Hyper Speed Guitar Hero: 72,538 GDPS, 36,269 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 224532, SPA: 6.65
 
-1389. Shining SSJ4 Gogeta: 72,520 GDPS, 18,130 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 61559, SPA: 3.65
+1389. Golden SSJ4 Gogeta: 72,520 GDPS, 18,130 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 61559, SPA: 3.65
 
-1390. Golden SSJ4 Gogeta: 72,520 GDPS, 18,130 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 61559, SPA: 3.65
+1390. Shining SSJ4 Gogeta: 72,520 GDPS, 18,130 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 61559, SPA: 3.65
 
 1391. Overlord Bruford: 69,306 GDPS, 69,306 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Shatter 2, Devastation Mastery | Bonuses: +22% Range | Damage: 135877, SPA: 3.48
 
@@ -2886,9 +2885,9 @@ Effects: [
 
 1433. Scoped Minato (Evo): 59,192 GDPS, 29,596 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 261267, SPA: 9.49
 
-1434. Golden Guitar Hero: 60,118 GDPS, 30,059 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 224532, SPA: 8.03
+1434. Shining Guitar Hero: 60,118 GDPS, 30,059 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 224532, SPA: 8.03
 
-1435. Shining Guitar Hero: 60,118 GDPS, 30,059 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 224532, SPA: 8.03
+1435. Golden Guitar Hero: 60,118 GDPS, 30,059 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 224532, SPA: 8.03
 
 1436. Glitched Frieza: 51,956 GDPS, 25,978 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 41382, SPA: 4.65
 
@@ -2944,17 +2943,17 @@ Effects: [
 
 1462. Hyper Speed Piccolo: 55,272 GDPS, 13,818 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 34995, SPA: 2.72
 
-1463. Golden Super Vegeta: 55,188 GDPS, 13,797 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 65582, SPA: 5.11
+1463. Shining Super Vegeta: 55,188 GDPS, 13,797 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 65582, SPA: 5.11
 
-1464. Shining Super Vegeta: 55,188 GDPS, 13,797 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 65582, SPA: 5.11
+1464. Golden Super Vegeta: 55,188 GDPS, 13,797 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 65582, SPA: 5.11
 
 1465. Eagle Eye Grimmjow: 53,088 GDPS, 17,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 72099, SPA: 4.38
 
 1466. Cosmic Uryu: 53,676 GDPS, 13,419 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 43441, SPA: 3.48
 
-1467. Elemental Master Grimmjow: 54,492 GDPS, 18,164 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 74007, SPA: 4.38
+1467. Diamond Grimmjow: 54,492 GDPS, 18,164 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 74007, SPA: 4.38
 
-1468. Diamond Grimmjow: 54,492 GDPS, 18,164 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 74007, SPA: 4.38
+1468. Elemental Master Grimmjow: 54,492 GDPS, 18,164 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 74007, SPA: 4.38
 
 1469. Scoped Grimmjow: 53,088 GDPS, 17,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 72099, SPA: 4.38
 
@@ -2964,9 +2963,9 @@ Effects: [
 
 1472. Vulture Shinra: 50,266 GDPS, 12,566 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 26513, SPA: 3.65
 
-1473. Shining Grimmjow: 53,088 GDPS, 17,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 72099, SPA: 4.38
+1473. Golden Grimmjow: 53,088 GDPS, 17,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 72099, SPA: 4.38
 
-1474. Golden Grimmjow: 53,088 GDPS, 17,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 72099, SPA: 4.38
+1474. Shining Grimmjow: 53,088 GDPS, 17,696 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 72099, SPA: 4.38
 
 1475. Juggernaut Shinra: 52,856 GDPS, 13,214 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 27705, SPA: 3.57
 
@@ -3030,9 +3029,9 @@ Effects: [
 
 1505. Eagle Eye Piccolo: 45,808 GDPS, 11,452 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 34995, SPA: 3.29
 
-1506. Elemental Master Aokiji: 47,408 GDPS, 23,704 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 112675, SPA: 5.11
+1506. Diamond Aokiji: 47,408 GDPS, 23,704 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 112675, SPA: 5.11
 
-1507. Diamond Aokiji: 47,408 GDPS, 23,704 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 112675, SPA: 5.11
+1507. Elemental Master Aokiji: 47,408 GDPS, 23,704 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 112675, SPA: 5.11
 
 1508. Scoped Aokiji: 46,186 GDPS, 23,093 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 109771, SPA: 5.11
 
@@ -3098,9 +3097,9 @@ Effects: [
 
 1539. Accelerate SSJ Goku: 40,580 GDPS, 10,145 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 35270, SPA: 3.74
 
-1540. Elemental Master Uryu: 40,556 GDPS, 10,139 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 41312, SPA: 4.38
+1540. Diamond Uryu: 40,556 GDPS, 10,139 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 41312, SPA: 4.38
 
-1541. Diamond Uryu: 40,556 GDPS, 10,139 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 41312, SPA: 4.38
+1541. Elemental Master Uryu: 40,556 GDPS, 10,139 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 41312, SPA: 4.38
 
 1542. Scoped Uryu: 39,512 GDPS, 9,878 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 40247, SPA: 4.38
 
@@ -3116,9 +3115,9 @@ Effects: [
 
 1548. Juggernaut Byakuya: 39,761 GDPS, 7,952 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 18951, SPA: 4.23
 
-1549. Shining Uryu: 39,512 GDPS, 9,878 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 40247, SPA: 4.38
+1549. Golden Uryu: 39,512 GDPS, 9,878 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 40247, SPA: 4.38
 
-1550. Golden Uryu: 39,512 GDPS, 9,878 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 40247, SPA: 4.38
+1550. Shining Uryu: 39,512 GDPS, 9,878 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 40247, SPA: 4.38
 
 1551. Vulture Byakuya: 37,134 GDPS, 7,427 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 17775, SPA: 4.38
 
@@ -3150,13 +3149,13 @@ Effects: [
 
 1565. Overlord Stroheim: 33,908 GDPS, 33,908 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 170438, SPA: 7.59
 
-1566. Golden SSJ Goku: 36,132 GDPS, 9,033 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 35270, SPA: 4.20
+1566. Shining SSJ Goku: 36,132 GDPS, 9,033 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 35270, SPA: 4.20
 
-1567. Shining SSJ Goku: 36,132 GDPS, 9,033 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 35270, SPA: 4.20
+1567. Golden SSJ Goku: 36,132 GDPS, 9,033 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 35270, SPA: 4.20
 
-1568. Golden Byakuya: 36,019 GDPS, 7,204 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 17775, SPA: 4.38
+1568. Shining Byakuya: 36,019 GDPS, 7,204 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 17775, SPA: 4.38
 
-1569. Shining Byakuya: 36,019 GDPS, 7,204 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 17775, SPA: 4.38
+1569. Golden Byakuya: 36,019 GDPS, 7,204 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 17775, SPA: 4.38
 
 1570. Entrepreneur Stroheim: 35,361 GDPS, 11,787 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 75987, SPA: 6.93
 
@@ -3214,9 +3213,9 @@ Effects: [
 
 1597. Entrepreneur Shenron: 26,691 GDPS, 26,691 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 93853, SPA: 3.78
 
-1598. Golden Stroheim: 26,952 GDPS, 8,984 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 67110, SPA: 8.03
+1598. Shining Stroheim: 26,952 GDPS, 8,984 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 67110, SPA: 8.03
 
-1599. Shining Stroheim: 26,952 GDPS, 8,984 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 67110, SPA: 8.03
+1599. Golden Stroheim: 26,952 GDPS, 8,984 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 67110, SPA: 8.03
 
 1600. Cosmic Frieza: 25,340 GDPS, 6,335 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 22215, SPA: 3.77
 
@@ -3286,13 +3285,13 @@ Effects: [
 
 1633. Entrepreneur Minato: 20,244 GDPS, 3,374 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +10% Range, +45% Money | Damage: 9886, SPA: 3.15
 
-1634. Golden Luffy (Timeskip): 20,394 GDPS, 6,798 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 17775, SPA: 4.38
+1634. Shining Luffy (Timeskip): 20,394 GDPS, 6,798 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 17775, SPA: 4.38
 
-1635. Shining Luffy (Timeskip): 20,394 GDPS, 6,798 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 17775, SPA: 4.38
+1635. Golden Luffy (Timeskip): 20,394 GDPS, 6,798 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 17775, SPA: 4.38
 
-1636. Shining Shenron: 20,344 GDPS, 20,344 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 82889, SPA: 4.38
+1636. Golden Shenron: 20,344 GDPS, 20,344 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 82889, SPA: 4.38
 
-1637. Golden Shenron: 20,344 GDPS, 20,344 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 82889, SPA: 4.38
+1637. Shining Shenron: 20,344 GDPS, 20,344 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 82889, SPA: 4.38
 
 1638. All Seeing Drip Nami: 16,872 GDPS, 2,109 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +80% Range | Damage: 5305, SPA: 4.44
 
@@ -3300,9 +3299,9 @@ Effects: [
 
 1640. Eagle Eye Frieza: 18,652 GDPS, 4,663 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 20582, SPA: 4.75
 
-1641. Elemental Master Frieza: 19,144 GDPS, 4,786 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 21126, SPA: 4.75
+1641. Diamond Frieza: 19,144 GDPS, 4,786 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 21126, SPA: 4.75
 
-1642. Diamond Frieza: 19,144 GDPS, 4,786 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 21126, SPA: 4.75
+1642. Elemental Master Frieza: 19,144 GDPS, 4,786 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 21126, SPA: 4.75
 
 1643. Scoped Frieza: 18,652 GDPS, 4,663 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 20582, SPA: 4.75
 
@@ -3328,7 +3327,7 @@ Effects: [
 
 1654. Accelerate Minato: 17,328 GDPS, 2,888 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 8731, SPA: 3.25
 
-1655. Vulture Minato: 16,218 GDPS, 2,703 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 8547, SPA: 3.70
+1655. Vulture Minato: 16,218 GDPS, 2,703 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 8731, SPA: 3.65
 
 1656. Glitched Drip Nami: 14,822 GDPS, 7,411 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +67% Range, +35% Money | Damage: 10897, SPA: 4.29
 
@@ -3406,9 +3405,9 @@ Effects: [
 
 1693. Golden Zenitsu: 13,162 GDPS, 3,487 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 12043, SPA: 4.01
 
-1694. Shining The Trio: 13,114 GDPS, 13,114 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 80145, SPA: 6.57
+1694. Golden The Trio: 13,114 GDPS, 13,114 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 80145, SPA: 6.57
 
-1695. Golden The Trio: 13,114 GDPS, 13,114 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 80145, SPA: 6.57
+1695. Shining The Trio: 13,114 GDPS, 13,114 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 80145, SPA: 6.57
 
 1696. Demi God Drip Nami: 12,936 GDPS, 1,617 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 6136, SPA: 4.08
 
@@ -3418,7 +3417,7 @@ Effects: [
 
 1699. Accelerate Drip Nami: 11,952 GDPS, 1,494 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 5419, SPA: 3.90
 
-1700. Vulture Drip Nami: 11,184 GDPS, 1,398 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 5305, SPA: 4.44
+1700. Vulture Drip Nami: 11,184 GDPS, 1,398 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 5419, SPA: 4.38
 
 1701. Juggernaut Drip Nami: 11,752 GDPS, 1,469 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 5778, SPA: 4.23
 
@@ -3452,7 +3451,7 @@ Effects: [
 
 1716. Accelerate Drip Gohan: 7,488 GDPS, 1,248 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 3773, SPA: 3.25
 
-1717. Vulture Drip Gohan: 7,008 GDPS, 1,168 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 3693, SPA: 3.70
+1717. Vulture Drip Gohan: 7,008 GDPS, 1,168 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +30% Range | Damage: 3773, SPA: 3.65
 
 1718. Juggernaut Drip Gohan: 7,362 GDPS, 1,227 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 4022, SPA: 3.52
 
@@ -3460,15 +3459,15 @@ Effects: [
 
 1720. Eagle Eye Drip Gohan: 6,666 GDPS, 1,111 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +20% Range | Damage: 3773, SPA: 3.65
 
-1721. Elemental Master Drip Gohan: 6,846 GDPS, 1,141 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 3873, SPA: 3.65
+1721. Diamond Drip Gohan: 6,846 GDPS, 1,141 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 3873, SPA: 3.65
 
-1722. Diamond Drip Gohan: 6,846 GDPS, 1,141 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +20% Money | Damage: 3873, SPA: 3.65
+1722. Elemental Master Drip Gohan: 6,846 GDPS, 1,141 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range | Damage: 3873, SPA: 3.65
 
 1723. Scoped Drip Gohan: 6,666 GDPS, 1,111 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +15% Range | Damage: 3773, SPA: 3.65
 
-1724. Shining Drip Gohan: 6,666 GDPS, 1,111 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 3773, SPA: 3.65
+1724. Golden Drip Gohan: 6,666 GDPS, 1,111 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 3773, SPA: 3.65
 
-1725. Golden Drip Gohan: 6,666 GDPS, 1,111 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +12% Money | Damage: 3773, SPA: 3.65
+1725. Shining Drip Gohan: 6,666 GDPS, 1,111 DPS | Empower 1, Shatter 1, Speedy 2, Enlightened Speedster, Critical 2, Empower 3, Shatter 2, Devastation Mastery | Bonuses: +5% Range, +10% Money | Damage: 3773, SPA: 3.65
 
 1726. Overlord Drip Nami: 5,021 GDPS, 5,021 DPS | Speedy 1, Empowered Crit 1, Speedy 2, Enlightened Speedster, Critical 2, Vision 3, Empowered Crit 2, Bullseye Master | Bonuses: +37% Range | Damage: 13764, SPA: 4.14
 
