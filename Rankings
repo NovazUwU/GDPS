@@ -1,6 +1,8 @@
 made by @cloneref
 new unit multi hits unknown
 
+Range is included at a 4:1 ratio (affects ranking in skill tree not gdps)
+
 Format: Ranking. Technique Name: Group DPS, DPS, Ability DPS | Skill Tree | Bonus Stats (stuff not used in dps calc) | Stats
 
 USE CTRL + F TO FIND YOUR COMBO
