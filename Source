@@ -1,8 +1,12 @@
+--!native
+local Start = os.clock()
+local Max = 3.7
+local Level = 85
 local Calculate = function(Damage, Zero)
     if Zero then 
-        return Damage * 3.3 
+        return Damage * Max
     end 
-    return Damage / (1 + 2.3 / 75) * 3.3
+    return Damage / (1 + (Max - 1) / Level) * Max 
 end 
 
 local Stats = {
@@ -449,7 +453,7 @@ local Stats = {
         ['SPA'] = 4
     },
     ['Tatsumaki'] = {
-        ["Placements"] = 2,
+        ["Placements"] = 3,
         ['Damage'] = Calculate(43000, true),
         ['SPA'] = 3
     },
@@ -474,6 +478,134 @@ local Stats = {
         ['Damage'] = Calculate(423560, true),
         ['SPA'] = 7.5
     },
+    ["Toji"] = {
+        ["Placements"] = 2,
+        ["Damage"] = Calculate(31250, true),
+        ["SPA"] = 7,
+        ["Effect"] = {"Hemorrhage"},
+        ["Hits"] = 1.05
+    },
+    ["Garou"] = {
+        ["Placements"] = 4,
+        ["Damage"] = Calculate(20792, true),
+        ["SPA"] = 6
+    },
+    ["Ippo"] = {
+        ["Placements"] = 6,
+        ["Damage"] = Calculate(11000, true),
+        ["SPA"] = 4
+    },
+    ["Natsu"] = {
+        ["Placements"] = 4,
+        ["Damage"] = Calculate(16040, true),
+        ["SPA"] = 6,
+        ["Effect"] = {"Burn"}
+    },
+    ["Igris"] = {
+        ["Placements"] = 4,
+        ["Damage"] = Calculate(18475, true),
+        ["SPA"] = 5.5,
+        ["Effect"] = {"Bleed"}
+    },
+    ["Cha Hae-In"] = {
+        ["Placements"] = 2,
+        ["Damage"] = Calculate(384600, true),
+        ["SPA"] = 7.5
+    },
+    ["Choi Jong-In"] = {
+        ["Placements"] = 4,
+        ["Damage"] = Calculate(10052, true),
+        ["SPA"] = 5.5,
+        ["Effect"] = {"Burn"}
+    },
+    ["Choi Jong-In (Evo)"] = {
+        ["Placements"] = 3,
+        ["Damage"] = Calculate(72580, true),
+        ["SPA"] = 5.5,
+        ["Effect"] = {"Burn"}
+    },
+    ["Baek Yoonho"] = {
+        ["Placements"] = 3,
+        ["Damage"] = Calculate(19540, true),
+        ["SPA"] = 6,
+        ["Effect"] = {"Bleed"}
+    },
+    ["Sung Jin-woo"] = {
+        ["Placements"] = 7,
+        ["Damage"] = Calculate(643, true),
+        ["SPA"] = 5
+    },
+    ["Sung Jin-woo (Bloodlust)"] = {
+        ["Placements"] = 3,
+        ["Damage"] = Calculate(32605, true),
+        ["SPA"] = 5,
+        ["Effect"] = {"Bleed"}
+    },
+    ["Kazuma"] = {
+        ["Placements"] = 4,
+        ["Damage"] = Calculate(26783, true),
+        ["SPA"] = 6,
+        ["Effect"] = {"Bleed"}
+    },
+    ["Baek Yoonho (Evo)"] = {
+        ["Placements"] = 2,
+        ["Damage"] = Calculate(82550, true),
+        ["SPA"] = 6,
+        ["Effect"] = {"Bleed"}
+    },
+    ["Garou (Evo)"] = {
+        ["Placements"] = 5,
+        ["Damage"] = Calculate(98450, true),
+        ["SPA"] = 6
+    },
+    ["Makoto"] = {
+        ["Placements"] = 4,
+        ["Damage"] = Calculate(25320, true),
+        ["SPA"] = 6,
+        ["Effect"] = {"Burn"}
+    },
+    ["Tomoe"] = {
+        ["Placements"] = 5,
+        ["Damage"] = Calculate(27560, true),
+        ["SPA"] = 6
+    },
+    ["Zamasu"] = {
+        ["Placements"] = 1,
+        ["Damage"] = Calculate(65140, true),
+        ["SPA"] = 7
+    },
+    ["Sung Jin-woo (Red Gate)"] = {
+        ["Placements"] = 2,
+        ["Damage"] = Calculate(122060, true),
+        ["SPA"] = 7.5,
+        ["Effect"] = {"Hemorrhage"}
+    },
+    ["Igris (Shadow)"] = {
+        ["Placements"] = 3,
+        ["Damage"] = Calculate(43580, true),
+        ["SPA"] = 5.5,
+        ["Effect"] = {"Bleed"}
+    },
+    ["Baruka"] = {
+        ["Placements"] = 3,
+        ["Damage"] = Calculate(323577, true),
+        ["SPA"] = 7.5
+    },
+    ["Kim Chul"] = {
+        ["Placements"] = 5,
+        ["Damage"] = Calculate(72050, true),
+        ["SPA"] = 6
+    },
+    ["Iron"] = {
+        ["Placements"] = 3,
+        ["Damage"] = Calculate(121540, true),
+        ["SPA"] = 6
+    },
+    ["Go Gun-hee"] = {
+        ["Placements"] = 4,
+        ["Damage"] = Calculate(44857, true),
+        ["SPA"] = 5
+    }
 }
 
 local Skills = {
@@ -682,7 +814,7 @@ local Effects = {
     ["Burn"] = { 
         ["Multiplier"] = 1.2,
         ["Ticks"] = 8,
-        ["Time"] = 7.1
+        ["Time"] = 8
     },
     ["Electrified"] = {
         ["Multiplier"] = 0.35,
@@ -699,10 +831,10 @@ local Effects = {
         ["Ticks"] = 6,
         ["Time"] = 6
     },
-    ["Poison"] = {
-        ["Multiplier"] = 2.3,
-        ["Ticks"] = 6,
-        ["Time"] = 6
+    ["Hemorrhage"] = {
+        ["Multiplier"] = 1.4,
+        ["Ticks"] = 5,
+        ["Time"] = 2.5
     }
 } 
 
@@ -740,9 +872,9 @@ local Calculate = function(Name, Trait, Tree)
         RangeMultiplier += 0.1
         Placements = 1
     elseif Trait == "Shinigami" then 
-        DamageMultiplier += 0.6
-        SpeedMultiplier -= 0.1
-        RangeMultiplier += 0.1
+        DamageMultiplier += 0.8
+        SpeedMultiplier -= 0.2
+        RangeMultiplier += 0.3
     elseif Trait == "Entrepreneur" then 
         DamageMultiplier += 0.25 
         SpeedMultiplier -= 0.10
@@ -830,10 +962,10 @@ local Calculate = function(Name, Trait, Tree)
 
     local SPA = BaseSpeed * SpeedMultiplier
     local Damage = BaseDamage * DamageMultiplier
-    local Crit = (Damage * (1 - CritRate)) + (Damage * CritDamage * CritRate)
+    local Crit = Damage * (1 + CritRate * (CritDamage - 1))
 
     if AnimationLength then 
-        SPA = math.clamp(SPA, AnimationLength, math.huge)
+        --SPA = math.clamp(SPA, AnimationLength, math.huge)
     end 
 
     local DPS = math.round(Crit / SPA)
@@ -868,7 +1000,7 @@ local Calculate = function(Name, Trait, Tree)
 
     if Effect then 
         for i,n in next, Effect do 
-            v = Effects[n]
+            local v = Effects[n]
             local Duration = v["Time"] * DOTDuration
             local TickMultiplier = v["Multiplier"] * DOTMultiplier / Duration
 
@@ -938,11 +1070,11 @@ Handler = function(Skill, Tree, Name, Technique)
         ["DPS"] = DPS,
         ["GDPS"] = GDPS,
         ["ADPS"] = ADPS,
-        ["TDPS"] = GDPS + ADPS,
+        ["TDPS"] = GDPS * (Bonuses["Range"] / 4 + 1),
         ["Bonus"] = Bonuses,
         ["Name"] = Name,
         ["Tree"] = Tree,
-        ["Stats"] = Stats
+        ["Stats"] = Stats 
     }
 
     local Links = Skill["Links"]
@@ -964,7 +1096,7 @@ for Name, _ in next, Stats do
 end 
 
 table.sort(Results, function(a, b)
-    return a["GDPS"] > b["GDPS"]
+    return a["TDPS"] > b["TDPS"]
 end)
 
 local TableToString = function(Table)
@@ -1007,10 +1139,13 @@ for i,v in next, Results do
     List[#List + 1] = v
 end 
 
+print("Time to run:", os.clock() - Start)
 print(([[
 made by @cloneref
 
 Format: Ranking. Technique Name: Group DPS, DPS, Ability DPS | Skill Tree | Bonus Stats (stuff not used in dps calc) | Stats
+
+Range is included at a 4:1 ratio (affects ranking in skill tree not gdps)
 
 USE CTRL + F TO FIND YOUR COMBO
 
@@ -1026,8 +1161,13 @@ Effects: [
    Burn: %ds
    Black Flames: %ds
    Conquered: %ds
+   Hemorrhage: %.1fs
 ]
-]]):format(Effects["Dismantled"]["Time"], Effects["Electrified"]["Time"], Effects["Bleed"]["Time"], Effects["Burn"]["Time"], Effects["Black Flames"]["Time"], Effects["Conquered"]["Time"]))
+]]):format(Effects["Dismantled"]["Time"], Effects["Electrified"]["Time"], Effects["Bleed"]["Time"], Effects["Burn"]["Time"], Effects["Black Flames"]["Time"], Effects["Conquered"]["Time"], Effects["Hemorrhage"]["Time"]))
+
+table.sort(List, function(a, b)
+    return a["GDPS"] > b["GDPS"]
+end)
 
 for i,v in next, List do
     local Resolved = {}
